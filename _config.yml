@@ -11,11 +11,11 @@ twitter_username: companytwitter
 # Build settings
 markdown: kramdown
 author:
-    name: Your Name
+    name: Max Rogers
     twitter: yourtwitter
     url: http://www.yoururl.com
     header_bg: /images/profile-header.png
-    avatar: /images/avatar.jpg
+    avatar: /images/headshot.png
     email: you@CompanyName.com
 facebook:
     image: /images/delightfuldev-facebook-cover.png
