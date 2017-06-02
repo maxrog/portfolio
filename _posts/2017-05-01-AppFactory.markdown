@@ -11,9 +11,6 @@ name: "My Journey"
 tagline: "Meet the Developer"
 app_icon: "/images/AppFactory/gear-icon.png"
 ---
-
-
-
 {% img center | /images/smallHeadShot.png | App Factory %}
 
 {% section_title Mister Rogers %}
