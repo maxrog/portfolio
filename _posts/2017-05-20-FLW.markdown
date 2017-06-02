@@ -2,7 +2,7 @@
 layout: post
 title:  "Frank Lloyd Wright Trail"
 subtitle: "Explore the FLW Trail located in Wisconsin"
-date:   2015-12-20 12:32:24
+date:   2017-05-23 00:30:00
 categories: iphone
 permalink: "FLW"
 device: "iphone"
@@ -23,7 +23,7 @@ Developed through the App Factory
 Client: SC Johnson & Son, Inc.
 {% endtextalign %}
 {% textalign left %}
-Development Time: December 2016 - May 2017 
+Initial Release: May 10, 2017
 {% endtextalign %}
 {% textalign left %}
 iOS Team Size: 2
@@ -32,9 +32,15 @@ iOS Team Size: 2
 
 {% section_title Contributions & Takeaways %}
 
+{% textalign left %}
+The app consists of two main features - the location map view and the trip planner. Most of my work was done on the trip planner. We needed a basic flow for users to decide how to visit some of FLW's buildings that fall on the trail. With the help of **Google's Directions API** and **Realm's Mobile Database** we came up with a solution.
+{% endtextalign %}
 
+{% textalign left %}
+Since this was my first real iOS project I did struggle at points but I had a more experienced dev as my lead to guide me if I needed help. I learned the basics of using the **MVC** pattern to display data in **Table Views** and how to pass this data between the **View Controllers** whether through **Segues** or **Delegation**. It was my first exposure to **Realm** which we used to save the user's trip information. The use of **Google Maps Directions API** taught me how to properly make **asynchronous network calls** and how to **synchronize** multiple calls before completion for when users construct multi-day trips. I learned how to use **Itunes Connect** and **TestFlight** which led to valuable feedback from my colleagues. I learned how to better design user forms. It's a good idea to assume that user's are dumb - design the flow as simple as possible and have all **edge cases** accounted for. The deadline for this project was positioned right at the end of the semester making it a wild ride the last couple weeks. This app gave me a nice base moving forward since I was introduced to a lot of the core components and nuances of iOS development. 
+{% endtextalign %}
 
-
+{% youtube IS0D_K7hAVU %}
 
 {% section_title Download %}
 
