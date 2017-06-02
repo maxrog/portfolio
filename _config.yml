@@ -1,9 +1,9 @@
 # Site settings
-title: CompanyName
-email: you@CompanyName.com
+title: Max Rogers
+email: mr@maxrogers.me
 description: "Edit description in _config.yml"
-info: "Edit this info in _config.yml"
-message: "Edit this message in _config.yml"
+info: "Racine, Wisconsin"
+message: "iOS Developer"
 keywords: "mac,apple,iphone,ios,osx,games,apps,development"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.delightfuldev.com" # the base hostname & protocol for your site

@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "iOS Development Toolbox"
+subtitle: "An Aggregation of References"
+date:   2015-12-20 12:32:24
+categories: macbook
+permalink: "Resources"
+device: "macbook"
+app_preview: "/images/Resources/tools.png"
+name: "My Resources"
+tagline: "What I've used along the way"
+app_icon: "/images/Resources/tools-icon.png"
+---
+{% section_title Software Tools %}
+{% textalign left %}
+xcode, slack, jira, trello, figma, sketch, sourcetree, realm browser... YOU CAN CHANGE THE ORDER OF THESE CATEGORIES IF YOU WANT KEEP SUMMARY OF WHAT IT IS TO ONE LINE 
+{% endtextalign %}
+
+{% section_title Courses %}
+
+{% textalign left %}
+[iOS Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/ios-programming/ "https://www.bignerdranch.com/books/ios-programming/") - Book that walks you through beginner projects.
+{% endtextalign %}
+
+{% textalign left %}
+[Developing iOS 10 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120 "https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120") - A series of lectures from Stanford's iOS course.
+{% endtextalign %}
+
+
+{% section_title Libraries/APIs %}
+
+{% textalign left %}
+[Realm](https://realm.io/docs/swift/2.7.0/api/ "https://realm.io/docs/swift/2.7.0/api/") - 
+{% endtextalign %}
+
+{% section_title Blogs/Podcasts %}
+
+
