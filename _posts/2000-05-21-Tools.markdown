@@ -2,7 +2,7 @@
 layout: post
 title:  "iOS Development Toolbox"
 subtitle: "An Aggregation of References"
-date:   2015-12-20 12:32:24
+date:   2017-05-01 12:32:24
 categories: macbook
 permalink: "Resources"
 device: "macbook"

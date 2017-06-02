@@ -2,10 +2,10 @@
 layout: post
 title:  "The App Factory at UW-Parkside"
 subtitle: "Have a Mobile App Idea? There's an App Factory for that!"
-date:   2017-05-21 12:32:24
-categories: macbook
+date:   2017-05-31 12:32:24
+categories: imac
 permalink: "AppFactory"
-device: "macbook"
+device: "imac"
 app_preview: "/images/AppFactory/gear.png"
 name: "My Journey"
 tagline: "Meet the Developer"
