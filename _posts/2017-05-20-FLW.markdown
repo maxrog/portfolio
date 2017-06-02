@@ -30,7 +30,7 @@ iOS Team Size: 2
 {% endtextalign %}
 
 
-{% section_title What I Learned %}
+{% section_title Contributions & Takeaways %}
 
 
 
