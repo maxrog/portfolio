@@ -1,53 +1,54 @@
 ---
 layout: post
 title:  "iOS Development Toolbox"
-subtitle: "An Aggregation of References"
+subtitle: "An Aggregation of Awesome Stuff"
 date:   2017-05-01 12:32:24
 categories: macbook
 permalink: "Resources"
 device: "macbook"
 app_preview: "/images/Resources/tools.png"
 name: "My Resources"
-tagline: "What I've used along the way"
+tagline: "Valuable Assets"
 app_icon: "/images/Resources/tools-icon.png"
 ---
 {% section_title Software Tools %}
 {% textalign left %}
-xcode, slack, jira, trello, figma, sketch, sourcetree, realm browser... YOU CAN CHANGE THE ORDER OF THESE CATEGORIES IF YOU WANT KEEP SUMMARY OF WHAT IT IS TO ONE LINE 
+[XCode](https://developer.apple.com/xcode/ "https://developer.apple.com/xcode/") - The main hub for development.  
+[Sourcetree](https://www.sourcetreeapp.com "https://www.sourcetreeapp.com") - GUI for Git  
+[Jira](https://www.atlassian.com/software/jira "https://www.atlassian.com/software/jira")- Powerful project management platform  
+[Trello](https://trello.com "https://trello.com") - Simple, lightweight solution for project management  
+[Sketch](https://www.sketchapp.com "https://www.sketchapp.com") - Digital design application  
+[Figma](https://www.figma.com/ "https://www.figma.com/") - Web-based digital design tool that features collaboration  
+[Slack](https://slack.com "https://slack.com") - Flexible communication platform  
+[Realm Browser](https://slack.com "https://slack.com") - Application for viewing your Realm databases 
 {% endtextalign %}
 
 
 {% section_title Services %}
 
 {% textalign left %}
-[Realm](https://realm.io/docs/swift/2.7.0/api/ "https://realm.io/docs/swift/2.7.0/api/") - 
+[Realm](https://realm.io/docs/swift/2.7.0/api/ "https://realm.io/docs/swift/2.7.0/api/") - Mobile database and alternative to Core Data for data persistence  
+[Firebase](https://firebase.google.com "https://firebase.google.com") - Service provided by Google that features a realtime database, cloud storage, analytics, and more 
 {% endtextalign %}
 
-{% section_title CocoaPods %}
+{% section_title Courses/Guides %}
 
 {% textalign left %}
-- 
-{% endtextalign %}
+[Apple's Swift Guide](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0 "https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html#//apple_ref/doc/uid/TP40014097-CH3-ID0")  
+[Apple's App Development With Swift iBook](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11 "https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11")  
+[Stanford's Developing iOS 10 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120 "https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120")  
+[iOS Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/ios-programming/ "https://www.bignerdranch.com/books/ios-programming/")  
 
-{% section_title Network APIs %}
-
-{% textalign left %}
-- 
-{% endtextalign %}
-
-{% section_title Courses/Tutorials %}
-
-{% textalign left %}
-[iOS Programming: The Big Nerd Ranch Guide](https://www.bignerdranch.com/books/ios-programming/ "https://www.bignerdranch.com/books/ios-programming/") - Book that walks you through beginner projects.
-{% endtextalign %}
-
-{% textalign left %}
-[Developing iOS 10 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120 "https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120") - A series of lectures from Stanford's iOS course.
 {% endtextalign %}
 
 {% section_title Blogs/Podcasts %}
 
 {% textalign left %}
-- 
+[Awesome Swift](https://awesomeswift.com "https://awesomeswift.com")
+[little bites of cocoa](https://littlebitesofcocoa.com "https://littlebitesofcocoa.com")
+{% endtextalign %}
+
+{% textalign center %}
+Last updated 06/02/2017
 {% endtextalign %}
 

@@ -17,15 +17,9 @@ app_icon: "/images/FLW/icon-FLW.png"
 
 
 {% textalign left %}
-Developed through the App Factory
-{% endtextalign %}
-{% textalign left %}
-Client: SC Johnson & Son, Inc.
-{% endtextalign %}
-{% textalign left %}
-Initial Release: May 10, 2017
-{% endtextalign %}
-{% textalign left %}
+Developed through the App Factory  
+Client: SC Johnson & Son, Inc.  
+Initial Release: May 10, 2017  
 iOS Team Size: 2
 {% endtextalign %}
 
@@ -37,7 +31,7 @@ The app consists of two main features - the location map view and the trip plann
 {% endtextalign %}
 
 {% textalign left %}
-Since this was my first real iOS project I did struggle at points but I had a more experienced dev as my lead to guide me if I needed help. I learned the basics of using the **MVC** pattern to display data in **Table Views** and how to pass this data between the **View Controllers** whether through **Segues** or **Delegation**. It was my first exposure to **Realm** which we used to save the user's trip information. The use of **Google Maps Directions API** taught me how to properly make **asynchronous network calls** and how to **synchronize** multiple calls before completion for when users construct multi-day trips. I learned how to use **Itunes Connect** and **TestFlight** which led to valuable feedback from my colleagues. I learned how to better design user forms. It's a good idea to assume that user's are dumb - design the flow as simple as possible and have all **edge cases** accounted for. The deadline for this project was positioned right at the end of the semester making it a wild ride the last couple weeks. This app gave me a nice base moving forward since I was introduced to a lot of the core components and nuances of iOS development. 
+This was my first real iOS application. Yes, their were plenty of obstacles to overcome but I had an experienced dev as my lead to guide me if I needed help. I learned the basics of using the **MVC** pattern to display data in **Table Views** and how to pass this data between the **View Controllers** whether through **Segues** or **Delegation**. It was my first exposure to **Realm** which we used to save the user's trip information. The use of **Google Maps Directions API** taught me how to properly make **asynchronous network calls** and how to **synchronize** multiple calls before completion for when users construct multi-day trips. I learned how to use **Itunes Connect** and **TestFlight** which led to valuable feedback from my colleagues. I learned how to better design user forms. It's a good idea to assume that user's are dumb - design the flow as simple as possible and have all **edge cases** accounted for. The deadline for this project was positioned right at the end of the semester making it a wild ride the last couple weeks. This app gave me a nice base moving forward since I was introduced to a lot of the core components and nuances of iOS development. 
 {% endtextalign %}
 
 {% youtube IS0D_K7hAVU %}

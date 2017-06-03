@@ -16,11 +16,9 @@ app_icon: "/images/AppFactory/gear-icon.png"
 {% section_title Mister Rogers %}
 
 {% textalign center %}
-*Has it happened yet?*
-{% endtextalign %}
-
-{% textalign center %}
-*Have you dreamt about your code?*
+*Has it happened yet?*  
+**...**  
+*Have you had dreams about your code?*
 {% endtextalign %}
 
 {% textalign left %}
@@ -28,7 +26,7 @@ This is how my professor and then-future employer opened class one day in my sec
 {% endtextalign %}
 
 {% textalign left %}
-For my Software Engineering course, I helped build an Android application that provided specialized functionality for a step tracking band - seeing the finished product piqued my interest in mobile development. This led to me applying for an intern iOS developer position at the App Factory in December 2016. After finding my bearings in **XCode** and **Swift**, it all clicked. I understood what he was talking about. From that point on I have been absolutely engulfed by the software engineering world and fully subscribed to iOS development. 
+For my Software Engineering course, I helped build an Android application that provided specialized functionality for a step tracking band - seeing the finished product piqued my interest in mobile development. This led to me applying for an intern iOS developer position at the App Factory in December of 2016. After settling in and finding my bearings in **XCode** and **Swift**, it all clicked. I understood what he was talking about. From that point on I have been absolutely engulfed by the world of software engineering and fully subscribed to iOS development. 
 {% endtextalign %}
 
 {% section_title My Experience at the App Factory %}
