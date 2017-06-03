@@ -28,14 +28,20 @@ iOS Team Size: 2
 
 {% textalign left %}
 The app consists of two main features - the location map view and the trip planner. Most of my work was done on the trip planner. We needed a basic flow to aid user's planning a trip to visit some of FLW's buildings that fall on the trail. With the help of **Google's Directions API** and **Realm's Mobile Database** we came up with a solution.  
-This was my first real iOS application. Yes, their were plenty of obstacles to overcome but I had an experienced dev as my lead to guide me if I needed help. Takeaways include:  
-* Basics of the **MVC** pattern to display data in **Table Views**/**Collection Views** and how to pass this data between **View Controllers** whether through **Segues** or **Delegation**.  
+This was my first real iOS application. Yes, their were plenty of obstacles to overcome but I had an experienced dev as my lead to guide me if I needed help.  
+**Takeaways**  
+* Basics of **MVC** pattern to display data in **Table Views**/**Collection Views** and how to pass this data between **View Controllers** whether through **Segues** or **Delegation**. 
+* Working with **Auto Layout**  
+* Integrating **CocoaPods** into a project
 * **Core Location**: Display distance on the map, and retrieve the starting location coordinates for our API calls in the trip planner.   
 * **Realm**: Persist the user's trip data.  
 * **Google Maps Directions API**: Solve the traveling salesman problem in our algorithm by toggling the optimize waypoints option of the API call. Also used to display the duration of the drives between locations. 
 	* Not only did the API calls teach me Swift's way of performing **asynchronous network calls** but also how to **synchronize** multiple calls before completion for when users construct multi-day trips.  
 * **Itunes Connect** and **TestFlight** led to valuable feedback from my colleagues. I learned how to better design user forms. It's a good idea to assume that user's are dumb - design the flow as simple as possible and have all **edge cases** accounted for - commonly mitigated through the use of **UIAlertControllers**.  
-The deadline for this project was positioned right at the end of the semester making it a wild ride the last couple weeks. This app gave me a nice base moving forward since I was introduced to a lot of the core components and nuances of iOS development. 
+{% endtextalign %}
+
+{% textalign left %}
+The deadline for this project was at the end of the semester making it a wild ride the last couple weeks. This app gave me a nice base moving forward since I was introduced to a lot of the core components and nuances of iOS development. 
 {% endtextalign %}
 
 {% youtube IS0D_K7hAVU %}

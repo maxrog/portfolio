@@ -21,6 +21,7 @@ app_icon: "/images/Resources/tools-icon.png"
 [Figma](https://www.figma.com/ "https://www.figma.com/") - Web-based digital design tool that features collaboration  
 [Slack](https://slack.com "https://slack.com") - Flexible communication platform  
 [Realm Browser](https://slack.com "https://slack.com") - Application for viewing your Realm databases 
+[Oh My Zsh](http://ohmyz.sh "http://ohmyz.sh") - Framework for managing zsh configuration
 {% endtextalign %}
 
 
@@ -44,11 +45,11 @@ app_icon: "/images/Resources/tools-icon.png"
 {% section_title Blogs/Podcasts %}
 
 {% textalign left %}
-[Awesome Swift](https://awesomeswift.com "https://awesomeswift.com")
+[Awesome Swift](https://awesomeswift.com "https://awesomeswift.com")  
 [little bites of cocoa](https://littlebitesofcocoa.com "https://littlebitesofcocoa.com")
 {% endtextalign %}
 
 {% textalign center %}
-Last updated 06/02/2017
+Last updated 06/03/2017
 {% endtextalign %}
 
