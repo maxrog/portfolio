@@ -5,7 +5,7 @@ description: "Edit description in _config.yml"
 info: "Racine, Wisconsin"
 message: "iOS Developer"
 keywords: "mac,apple,iphone,ios,osx,games,apps,development"
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/portfolio/" # the subpath of your site, e.g. /blog/
 url: "http://www.maxrogers.me" # the base hostname & protocol for your site
 twitter_username:
 # Build settings
