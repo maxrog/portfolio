@@ -29,7 +29,7 @@ Team Size: 1
 The app allows users to choose teams from any year that the sports API provides. The API provides stats for the teams that year, which I used to simulate a game between the two teams.      
 **Algorithm**  
 * The simulation algorithm uses the teams' overall wins, division wins, strength of schedule, and total points against stats to produce a matrix of either 0, 3, 7 which represent possible scores.  
-* At random intervals on the score clock, based on their opponents defensive stats they have a chance to randomly select a position in the matrix leading to a possible score. 
+* At random intervals on the score clock, based on their opponents defensive stats they have a chance to randomly select a position in the matrix leading to a possible score. After their attempt, the ball gets turned over to the other team.  
 {% endtextalign %} 
 {% textalign left %}
 **Takeaways** 

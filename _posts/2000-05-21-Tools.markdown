@@ -22,6 +22,7 @@ app_icon: "/images/Resources/tools-icon.png"
 [Slack](https://slack.com "https://slack.com") - Flexible communication platform  
 [Realm Browser](https://slack.com "https://slack.com") - Application for viewing your Realm databases 
 [Oh My Zsh](http://ohmyz.sh "http://ohmyz.sh") - Framework for managing zsh configuration
+[Sublime Text](https://www.sublimetext.com "https://www.sublimetext.com") - Text editor
 {% endtextalign %}
 
 
