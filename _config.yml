@@ -1,11 +1,11 @@
 # Site settings
 title: Max Rogers
 email: MR@maxrogers.me
-description: "Edit description in _config.yml"
+description: "The Portfolio of Max Rogers"
 info: "Racine, Wisconsin"
 message: "iOS Developer"
 keywords: "mac,apple,iphone,ios,osx,games,apps,development"
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://www.maxrog.github.io" # the base hostname & protocol for your site
 twitter_username:
 # Build settings
