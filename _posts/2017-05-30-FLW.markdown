@@ -18,9 +18,9 @@ app_icon: "/images/FLW/icon-FLW.png"
 
 {% textalign left %}
 Developed through the App Factory  
-Client: SC Johnson & Son, Inc.  
-Initial Release: May 10, 2017  
-iOS Team Size: 2
+**Client:** SC Johnson & Son, Inc.  
+**Initial Release:** May 10, 2017  
+**iOS Team Size:** 2
 {% endtextalign %}
 
 

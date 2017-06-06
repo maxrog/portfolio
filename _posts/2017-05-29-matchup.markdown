@@ -18,8 +18,8 @@ app_icon: "/images/Matchup/icon-Matchup.png"
 
 {% textalign left %}
 Class Project  
-Initial "Release": May 03, 2017  
-Team Size: 1
+**Initial "Release":** May 03, 2017  
+**Team Size:** 1
 {% endtextalign %}
 
 
