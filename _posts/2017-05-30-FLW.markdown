@@ -41,7 +41,8 @@ This was my first real iOS application. Yes, their were plenty of obstacles to o
 {% endtextalign %}
 
 {% textalign left %}
-The deadline for this project was at the end of the semester making it a wild ride the last couple weeks. This app gave me a nice base moving forward since I was introduced to a lot of the core components and nuances of iOS development. 
+The deadline for this project was at the end of the semester making it a wild ride the last couple weeks. This app gave me a nice base moving forward since I was introduced to a lot of the core components and nuances of iOS development.  
+**Moving Forward**: Enhanced Trip Planner, Maintenance
 {% endtextalign %}
 
 {% youtube IS0D_K7hAVU %}
