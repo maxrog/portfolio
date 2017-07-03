@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Frank Lloyd Wright Trail"
-subtitle: "Explore the FLW Trail located in Wisconsin"
-date:   2017-05-30 00:30:00
+title:  "King Fore"
+subtitle: "Foooore!"
+date:   2017-05-28 00:30:00
 categories: iphone
-permalink: "FLW"
+permalink: "KingFore"
 device: "iphone"
 app_preview: "/images/FLW/preview-FLW.png"
 name: "Frank Lloyd Wright Trail"
@@ -17,10 +17,9 @@ app_icon: "/images/FLW/icon-FLW.png"
 
 
 {% textalign left %}
-Developed through the App Factory  
-**Client:** SC Johnson & Son, Inc.  
+Side Project  
 **Initial Release:** May 10, 2017  
-**iOS Team Size:** 2
+**Team Size:** 1
 {% endtextalign %}
 
 
@@ -51,6 +50,3 @@ The deadline for this project was at the end of the semester making it a wild ri
 
 {% download app_store | https://itunes.apple.com/us/app/frank-lloyd-wright-trail/id1166393729?mt=8 %}
 
-{% textalign center %}
-[Client Website](http://www.scjohnson.com/en/company/architecture.aspx "http://www.scjohnson.com/en/company/architecture.aspx")
-{% endtextalign %}
