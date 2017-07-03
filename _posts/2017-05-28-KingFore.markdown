@@ -1,24 +1,22 @@
 ---
 layout: post
 title:  "King Fore"
-subtitle: "Foooore!"
+subtitle: "Track Your Golf Game"
 date:   2017-05-28 00:30:00
 categories: iphone
 permalink: "KingFore"
 device: "iphone"
-app_preview: "/images/FLW/preview-FLW.png"
-name: "Frank Lloyd Wright Trail"
-tagline: "Explore the FLW Trail located in Wisconsin"
-app_icon: "/images/FLW/icon-FLW.png"
+app_preview: "/images/KingFore/preview-KingFore.png"
+name: "King Fore"
+tagline: "Foooooore!"
+app_icon: "/images/KingFore/icon-KingFore.png"
 ---
 
-{% img center | /images/FLW/FLW_1.png | Frank Lloyd Wright Trail %}
-
-
+{% img center | /images/KingFore/KingFore_1.png | King Fore %}
 
 {% textalign left %}
 Side Project  
-**Initial Release:** May 10, 2017  
+**Initial Release:** May 23, 2017  
 **Team Size:** 1
 {% endtextalign %}
 
@@ -26,27 +24,25 @@ Side Project
 {% section_title Contributions & Takeaways %}
 
 {% textalign left %}
-The app consists of two main features - the location map view and the trip planner. Most of my work was done on the trip planner. We needed a basic flow to aid user's planning a trip to visit some of FLW's buildings that fall on the trail. With the help of **Google's Directions API** and **Realm's Mobile Database** we came up with a solution.  
-This was my first real iOS application. Yes, their were plenty of obstacles to overcome but I had an experienced dev as my lead to guide me if I needed help.  
+King Fore is a project I made to accomodate the summer golf season. Its primary features track scorecards for available courses and aggregate some stats about their game. It allows users to create or join a league to see who has the best score at each of the courses, hence **King** Fore.  
 **Takeaways**  
-* Basics of **MVC** pattern to display data in **Table Views**/**Collection Views** and how to pass this data between **View Controllers** whether through **Segues** or **Delegation**. 
-* Working with **Auto Layout**  
-* Integrating **CocoaPods** into a project
-* **Core Location**: Display distance/overlay on the map and retrieve the starting location coordinates for our API calls in the trip planner.   
-* **Realm**: Persist the user's trip data.  
-* **Google Maps Directions API**: Solve the traveling salesman problem in our algorithm by toggling the optimize waypoints option of the API call. Also used to display the duration of the drives between locations. 
-	* Not only did the API calls teach me Swift's way of performing **asynchronous network calls** but also how to **synchronize** multiple calls before completion for when users construct multi-day trips.  
-* **Itunes Connect** and **TestFlight** led to valuable feedback from my colleagues. I learned how to better design user forms. It's a good idea to assume that user's are dumb - design the flow as simple as possible and have all **edge cases** accounted for - commonly mitigated through the use of **UIAlertControllers**.  
+* Using **Firebase** as my **BaaS** to authenticate and connect user data.  
+    * Best practices for authentication
+    * Designing the Firebase real-time database for efficient queries
+    * Ability to observe values to notify the app to update
+    * Crash Analytics
+* Custom **MapKit** pins and **MKAnnotationViews**  
+* Making use of **UIView animations**
 {% endtextalign %}
 
 {% textalign left %}
-The deadline for this project was at the end of the semester making it a wild ride the last couple weeks. This app gave me a nice base moving forward since I was introduced to a lot of the core components and nuances of iOS development.  
-**Moving Forward**: Enhanced Trip Planner, Maintenance
+I moved through this project pretty quickly because of how much fun I was having with it and since I wanted it released before the golf season started. I saw how powerful services such as Firebase can be - I also realized it can be tricky using services like this where you will have to pay if your app grows enough, creating some predicaments for your business model. I decided to keep it completely free since I mostly made it for my friends and I and the only courses available are in SE Wisconsin at the moment (meaning I shouldn't have to worry about being charged for the database). My first independently released app and I had a blast throughout the whole process.  
+**Moving Forward**: Possibly introduce a payment model and dynamically pull courses throughout the user's area
 {% endtextalign %}
 
-{% youtube IS0D_K7hAVU %}
+{% youtube nQNW_uURUlA %}
 
 {% section_title Download %}
 
-{% download app_store | https://itunes.apple.com/us/app/frank-lloyd-wright-trail/id1166393729?mt=8 %}
+{% download app_store | https://itunes.apple.com/us/app/king-fore/id1239615628?mt=8 %}
 

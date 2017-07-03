@@ -26,7 +26,7 @@ This is how my professor and then-future employer opened class one day in my sec
 {% endtextalign %}
 
 {% textalign left %}
-Down the road in my Software Engineering course, I helped build an Android application that provided specialized functionality for a step-tracking band - seeing the finished product piqued my interest in mobile development. This led to me applying for an intern iOS developer position at the App Factory in December of 2016. After settling in and finding my bearings in **Xcode** and **Swift**, it all clicked. I understood what he was talking about. From that point on I have been absolutely engulfed by the world of software engineering and fully subscribed to iOS development. 
+Down the road in my Software Engineering course, I helped build an Android application that provided specialized functionality for a step-tracking band - seeing the finished product piqued my interest in mobile development. This led to me applying for an intern iOS developer position at the App Factory in December of 2016. After settling in and finding my bearings in **Xcode** and **Swift**, it all clicked. I understood what he was talking about. From that point on I have been engrossed by the world of software engineering and fully subscribed to iOS development. 
 {% endtextalign %}
 
 {% section_title My Experience at the App Factory %}

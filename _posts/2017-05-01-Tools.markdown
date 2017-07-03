@@ -20,8 +20,9 @@ app_icon: "/images/Resources/tools-icon.png"
 [Sketch](https://www.sketchapp.com "https://www.sketchapp.com") - Digital design application  
 [Figma](https://www.figma.com/ "https://www.figma.com/") - Web-based digital design tool that features collaboration  
 [Slack](https://slack.com "https://slack.com") - Flexible communication platform  
-[Realm Browser](https://slack.com "https://slack.com") - Application for viewing your Realm databases  
+[Realm Browser](https://slack.com "https://slack.com") - Application for viewing your Realm database    
 [Oh My Zsh](http://ohmyz.sh "http://ohmyz.sh") - Framework for managing zsh configuration  
+[Homebrew](https://brew.sh "https://brew.sh") - Package manager for macOS    
 [Sublime Text](https://www.sublimetext.com "https://www.sublimetext.com") - Text editor
 {% endtextalign %}
 
@@ -47,10 +48,13 @@ app_icon: "/images/Resources/tools-icon.png"
 
 {% textalign left %}
 [Awesome Swift](https://awesomeswift.com "https://awesomeswift.com")  
-[little bites of cocoa](https://littlebitesofcocoa.com "https://littlebitesofcocoa.com")
+[little bites of cocoa](https://littlebitesofcocoa.com "https://littlebitesofcocoa.com")  
+[dribble](https://dribbble.com "https://dribbble.com")  
+[cocoa controls](https://www.cocoacontrols.com "https://www.cocoacontrols.com")  
+[cocoacasts](https://cocoacasts.com "https://cocoacasts.com")  
 {% endtextalign %}
 
 {% textalign center %}
-Last updated 06/03/2017
+Last updated 07/03/2017
 {% endtextalign %}
 
