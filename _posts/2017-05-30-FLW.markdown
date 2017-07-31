@@ -47,7 +47,6 @@ The deadline for this project was at the end of the semester making it a wild ri
 
 {% youtube IS0D_K7hAVU %}
 
-{% section_title Download %}
 
 {% download app_store | https://itunes.apple.com/us/app/frank-lloyd-wright-trail/id1166393729?mt=8 %}
 

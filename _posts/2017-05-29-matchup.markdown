@@ -15,7 +15,6 @@ app_icon: "/images/Matchup/icon-Matchup.png"
 {% img center | /images/Matchup/Matchup_1.png | Frank Lloyd Wright Trail %}
 
 
-
 {% textalign left %}
 Class Project  
 **Initial "Release":** May 03, 2017  

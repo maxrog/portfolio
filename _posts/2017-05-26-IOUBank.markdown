@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "IOU Bank"
-subtitle: "Keep a tab with your friends"
+subtitle: "Keep a Tab With Your Friends"
 date:   2017-05-26 00:30:00
 categories: iphone
 permalink: "IOUBank"
 device: "iphone"
-app_preview: "/images/IOUBank/preview-IOUBank.png"
+app_preview: "/images/IOUBank/preview-IOU.png"
 name: "IOU Bank"
 tagline: "Keep track of your loans"
 app_icon: "/images/IOUBank/icon-IOU.png"
@@ -14,10 +14,8 @@ app_icon: "/images/IOUBank/icon-IOU.png"
 
 {% img center | /images/IOUBank/IOUBank_1.png | IOU Bank %}
 
-
-
 {% textalign left %}
-Side Project 
+Side Project  
 **Initial Release:** June 06, 2017  
 **iOS Team Size:** 1
 {% endtextalign %}
@@ -37,16 +35,13 @@ IOU Bank was an application I made to give me practice while trying out some  iO
 {% endtextalign %}
 
 {% textalign left %}
-This application lent an opportunity to get better at developing all the way from design, to business model, to development. I went with a standard business model of banner/interstitial ads and limiting user experience unless they pay for the IAP to expand their bank vault space and remove the ads. I did run into some issues with compatibility with all screen sizes which will be a thing for me to work on in my next application.   
-
+This application lent an opportunity to get better at developing all the way from design, to business model, to development. I went with a standard business model of banner/interstitial ads and limiting user experience unless they pay for the IAP to expand their bank vault space and remove the ads. I did run into some issues with compatibility with all screen sizes which will be a thing for me to work on in my next application.  
 The project's repo is available on [GitHub](https://github.com/maxrog/IOU-Bank "https://github.com/maxrog/IOU-Bank")  
-
 **Moving Forward**: Maintenance
 {% endtextalign %}
 
 {% youtube H46yZXZM8bM %}
 
-{% section_title Download %}
 
 {% download app_store | https://itunes.apple.com/us/app/iou-bank/id1252491343?mt=8 %}
 

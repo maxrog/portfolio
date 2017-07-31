@@ -41,8 +41,6 @@ This was a very simple app to make due to the fact that phase two was cut. Also,
 
 {% youtube hMoz9A7dbWk %}
 
-{% section_title Download %}
-
 {% download app_store | https://itunes.apple.com/us/app/kenosha-farmers-market/id1238839659?mt=8 %}
 
 {% textalign center %}

@@ -42,7 +42,6 @@ I moved through this project pretty quickly because of how much fun I was having
 
 {% youtube nQNW_uURUlA %}
 
-{% section_title Download %}
 
 {% download app_store | https://itunes.apple.com/us/app/king-fore/id1239615628?mt=8 %}
 
