@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "IOU Bank"
+subtitle: "Keep a tab with your friends"
+date:   2017-05-26 00:30:00
+categories: iphone
+permalink: "IOUBank"
+device: "iphone"
+app_preview: "/images/IOUBank/preview-IOUBank.png"
+name: "IOU Bank"
+tagline: "Keep track of your loans"
+app_icon: "/images/IOUBank/icon-IOU.png"
+---
+
+{% img center | /images/IOUBank/IOUBank_1.png | IOU Bank %}
+
+
+
+{% textalign left %}
+Side Project 
+**Initial Release:** June 06, 2017  
+**iOS Team Size:** 1
+{% endtextalign %}
+
+
+{% section_title Contributions & Takeaways %}
+
+{% textalign left %}
+IOU Bank was an application I made to give me practice while trying out some  iOS capabilities that were new to me. Users can keep track of loans that they have with friends. If they are paying incrementally, they can add a payment and watch the progress bar move closer. 
+
+**Takeaways**  
+* **Firebase BaaS** used to authenticate through phone and store user loans
+* **UIPageView** users way of navigating through their loans
+* **CNContactStore** allow for users to connect their loans with someone in their contacts so they can both view/modify the loans
+* **Google AdMob** configuration of both banner and interstitial ads
+* **In-App Purchase** limit user's bank vault space unless they purchase more
+{% endtextalign %}
+
+{% textalign left %}
+This application lent an opportunity to get better at developing all the way from design, to business model, to development. I went with a standard business model of banner/interstitial ads and limiting user experience unless they pay for the IAP to expand their bank vault space and remove the ads. I did run into some issues with compatibility with all screen sizes which will be a thing for me to work on in my next application.   
+
+The project's repo is available on [GitHub](https://github.com/maxrog/IOU-Bank "https://github.com/maxrog/IOU-Bank")  
+
+**Moving Forward**: Maintenance
+{% endtextalign %}
+
+{% youtube H46yZXZM8bM %}
+
+{% section_title Download %}
+
+{% download app_store | https://itunes.apple.com/us/app/iou-bank/id1252491343?mt=8 %}
+
+
