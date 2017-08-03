@@ -47,4 +47,16 @@ I've had a blast working in this environment and it's given me the drive to neve
 [App Factory Website](http://www.appfactoryuwp.com "http://www.appfactoryuwp.com")
 {% endtextalign %}
 
+{% section_title Outside of Development %}
+
+{% textalign left %}
+When I'm not working on a project, I like to work on myself and have fun! Some of the things I enjoy:  
+Sports **●** Fitness **●** Food/Diet  
+"The Great Outdoors" **●** Traveling **●** Camping **●** Hiking **●** Fishing  
+Music **●** Books **●** Movies **●** Gaming  
+Tea **●** Coffee **●** Craft Beer
+{% endtextalign %}
+
+
+
 
