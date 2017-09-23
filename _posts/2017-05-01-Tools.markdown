@@ -49,7 +49,7 @@ app_icon: "/images/Resources/tools-icon.png"
 {% textalign left %}
 [Awesome Swift](https://awesomeswift.com "https://awesomeswift.com")  
 [little bites of cocoa](https://littlebitesofcocoa.com "https://littlebitesofcocoa.com")  
-[dribble](https://dribbble.com "https://dribbble.com")  
+[dribbble](https://dribbble.com "https://dribbble.com")  
 [cocoa controls](https://www.cocoacontrols.com "https://www.cocoacontrols.com")  
 [cocoacasts](https://cocoacasts.com "https://cocoacasts.com")  
 {% endtextalign %}
