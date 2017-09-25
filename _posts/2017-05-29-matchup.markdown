@@ -4,7 +4,7 @@ title:  "Super Bowl Simulator"
 subtitle: "See which team wins!"
 date:   2017-05-29 00:30:00
 categories: iphone
-permalink: "Matchup"
+permalink: "MatchupSimulator"
 device: "iphone"
 app_preview: "/images/Matchup/preview-matchup.png"
 name: "Super Bowl Simulator"

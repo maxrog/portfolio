@@ -4,7 +4,7 @@ title:  "Kenosha Farmers Market"
 subtitle: "Support Your Local Markets"
 date:   2017-05-27 00:30:00
 categories: iphone
-permalink: "FarmersMarkets"
+permalink: "FarmersMarket"
 device: "iphone"
 app_preview: "/images/FarmersMarkets/preview-FarmersMarket.png"
 name: "Kenosha Farmers Market"
