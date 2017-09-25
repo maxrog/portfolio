@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About Me"
+title:  "About Max"
 subtitle: "Inspired, Focused, Creative"
 date:   2017-05-31 12:32:24
 categories: imac
