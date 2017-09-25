@@ -4,7 +4,7 @@ title:  "The Life of a Young Developer"
 subtitle: "Inspired, Focused, Creative"
 date:   2017-05-31 12:32:24
 categories: imac
-permalink: "AppFactory"
+permalink: "AboutMe"
 device: "imac"
 app_preview: "/images/AppFactory/gear.png"
 name: "My Journey"

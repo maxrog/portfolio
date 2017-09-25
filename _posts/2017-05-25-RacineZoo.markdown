@@ -4,7 +4,7 @@ title:  "Racine Zoo"
 subtitle: "The Perfect Companion for a Trip to the Zoo"
 date:   2017-05-25 00:30:00
 categories: iphone
-permalink: "Zoo"
+permalink: "RacineZoo"
 device: "iphone"
 app_preview: "/images/Zoo/preview-Zoo.png"
 name: "Racine Zoo"
