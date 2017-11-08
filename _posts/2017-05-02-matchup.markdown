@@ -2,7 +2,7 @@
 layout: post
 title:  "Super Bowl Simulator"
 subtitle: "See Which Team Wins!"
-date:   2017-05-25 00:30:00
+date:   2017-05-02 00:30:00
 categories: iphone
 permalink: "MatchupSimulator"
 device: "iphone"
