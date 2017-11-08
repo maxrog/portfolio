@@ -2,13 +2,13 @@
 layout: post
 title:  "IOU Bank"
 subtitle: "Keep a Tab With Your Friends"
-date:   2017-05-26 00:30:00
+date:   2017-05-29 00:30:00
 categories: iphone
 permalink: "IOUBank"
 device: "iphone"
 app_preview: "/images/IOUBank/preview-IOU.png"
 name: "IOU Bank"
-tagline: "Keep track of your loans"
+tagline: "June 06, 2017"
 app_icon: "/images/IOUBank/icon-IOU.png"
 ---
 

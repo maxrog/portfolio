@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Racine Zoo"
-subtitle: "The Perfect Companion for a Trip to the Zoo"
-date:   2017-05-25 00:30:00
+subtitle: "A Visitor's Guide"
+date:   2017-05-30 00:30:00
 categories: iphone
 permalink: "RacineZoo"
 device: "iphone"
 app_preview: "/images/Zoo/preview-Zoo.png"
 name: "Racine Zoo"
-tagline: "A Visitor's Guide"
+tagline: "August 23, 2017"
 app_icon: "/images/Zoo/icon-Zoo.png"
 ---
 

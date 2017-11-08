@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Frank Lloyd Wright Trail"
-subtitle: "Explore the FLW Trail located in Wisconsin"
-date:   2017-05-30 00:30:00
+subtitle: "Explore the FLW Trail Located in Wisconsin"
+date:   2017-05-25 00:30:00
 categories: iphone
 permalink: "FLW"
 device: "iphone"
 app_preview: "/images/FLW/preview-FLW.png"
 name: "Frank Lloyd Wright Trail"
-tagline: "Explore the FLW Trail located in Wisconsin"
+tagline: "May 10, 2017"
 app_icon: "/images/FLW/icon-FLW.png"
 ---
 

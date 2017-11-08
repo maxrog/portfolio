@@ -2,13 +2,13 @@
 layout: post
 title:  "King Fore"
 subtitle: "Track Your Golf Game"
-date:   2017-05-28 00:30:00
+date:   2017-05-27 00:30:00
 categories: iphone
 permalink: "KingFore"
 device: "iphone"
 app_preview: "/images/KingFore/preview-KingFore.png"
 name: "King Fore"
-tagline: "Foooooore!"
+tagline: "May 23, 2017"
 app_icon: "/images/KingFore/icon-KingFore.png"
 ---
 

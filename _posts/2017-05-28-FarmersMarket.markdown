@@ -2,13 +2,13 @@
 layout: post
 title:  "Kenosha Farmers Market"
 subtitle: "Support Your Local Markets"
-date:   2017-05-27 00:30:00
+date:   2017-05-28 00:30:00
 categories: iphone
 permalink: "FarmersMarket"
 device: "iphone"
 app_preview: "/images/FarmersMarkets/preview-FarmersMarket.png"
 name: "Kenosha Farmers Market"
-tagline: "Support Your Local Markets"
+tagline: "June 22, 2017"
 app_icon: "/images/FarmersMarkets/icon-FM.png"
 ---
 
