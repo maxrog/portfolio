@@ -36,7 +36,6 @@ IOU Bank was an application I made to give me practice while trying out some  iO
 
 {% textalign left %}
 This application lent an opportunity to get better at developing all the way from design, to business model, to development. I went with a standard business model of banner/interstitial ads and limiting user experience unless they pay for the IAP to expand their bank vault space and remove the ads. I did run into some issues with compatibility with all screen sizes which will be a thing for me to work on in my next application.  
-The project's repo is available on [GitHub](https://github.com/maxrog/IOU-Bank "https://github.com/maxrog/IOU-Bank")  
 **Moving Forward**: Maintenance
 {% endtextalign %}
 
