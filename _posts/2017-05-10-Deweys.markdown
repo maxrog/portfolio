@@ -29,7 +29,7 @@ The Dewey's app is a tool used for them to keep customers up to date on their ev
 **Takeaways**  
 * **Firebase CMS** Used to send push notifications to users about daily specials etc.  
 * **Google Calendar** Their Google Calendar data is pulled and filtered to display data. 
-* **Unit Testing** Unit testing for Realm, network, and manager classes.
+* **Unit Testing** In process of implementing unit testing for Realm, network, and manager classes.
 {% endtextalign %}
 
 {% textalign left %}
