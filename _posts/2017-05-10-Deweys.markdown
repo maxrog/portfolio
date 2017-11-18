@@ -17,7 +17,7 @@ app_icon: "/images/Deweys/icon-Deweys.png"
 {% textalign left %}
 Side Project  
 **Client:** Dewey's Restaurant & Sports Bar   
-**Initial Release:** In Progress   
+**Initial Release:** In Progress  
 **iOS Team Size:** 1
 {% endtextalign %}
 
@@ -34,7 +34,7 @@ The Dewey's app is a tool used for them to keep customers up to date on their ev
 
 {% textalign left %}
 This app is simple at it's core. That means it lent an opportunity for me to work towards a clean, crisp UI/UX. I also used it to help get more experience with unit testing. 
-I was given permission from the client to make the code available on [GitHub](https://github.com/maxrog/DeweysRacine "https://github.com/maxrog/DeweysRacine").   
+I was given permission from the client to make the code available on [GitHub](https://github.com/maxrog/DeweysRacine "https://github.com/maxrog/DeweysRacine").  
 **Moving Forward**: Finishing touches
 {% endtextalign %}
 
