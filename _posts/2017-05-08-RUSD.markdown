@@ -9,7 +9,7 @@ device: "iphone"
 app_preview: "/images/RUSD/preview-RUSD.png"
 name: "Racine Unified School District"
 tagline: "Ready For Release"
-app_icon: "/images/FLW/icon-RUSD.png"
+app_icon: "/images/RUSD/icon-RUSD.png"
 ---
 
 {% img center | /images/RUSD/RUSD_1.png | RUSD %}
@@ -19,7 +19,7 @@ app_icon: "/images/FLW/icon-RUSD.png"
 {% textalign left %}
 Developed through the App Factory  
 **Client:** Racine Unified School District  
-**Initial Release:** Ready to Release 
+**Initial Release:** Ready to Release   
 **iOS Team Size:** 1
 {% endtextalign %}
 
@@ -27,8 +27,7 @@ Developed through the App Factory
 {% section_title Contributions & Takeaways %}
 
 {% textalign left %}
-The RUSD app's main feature is to enable staff (particularly IS) to view relevant messages. It allows the client to log in to a web portal and send out push notifications to relevant topics (training, outages, etc) and update contact information. This project consisted of an iOS, Android, and Web component. 
-
+The RUSD app's main feature is to enable staff (particularly IS) to view relevant messages. It allows the client to log in to a web portal and send out push notifications to relevant topics (training, outages, etc) and update contact information. This project consisted of an iOS, Android, and Web component.   
 **Takeaways**  
 * **User Authentication** Logging in through our Node.js/MongoDB backend which communicates with RUSD's LDAP system to authorize the user.  
 * **Handling Tokens** Logic to check if a refresh is needed and what to do on failure. Keeping our server updated on any updated registration tokens received through Firebase. Securely storing access tokens on authentication success.   
@@ -36,7 +35,7 @@ The RUSD app's main feature is to enable staff (particularly IS) to view relevan
 {% endtextalign %}
 
 {% textalign left %}
-I really enjoyed this project as it gave a nice challenge to our team to communicate properly. I have to give thanks to our web guys for writing great API documentation. Client side we had to put our heads together regarding all the edge cases during our network calls. I believe we handled them all properly and it resulted in a robust application. 
+I really enjoyed this project as it gave a nice challenge to our team to communicate properly. I have to give thanks to our web guys for writing great API documentation. Client side we had to put our heads together regarding all the edge cases during our network calls. I believe we handled them all properly and it resulted in a robust application.   
 **Moving Forward**: Maintenance
 {% endtextalign %}
 

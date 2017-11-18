@@ -16,7 +16,7 @@ app_icon: "/images/SkiTrip/icon-SkiTrip.png"
 
 {% textalign left %}
 Side Project   
-**Initial Release:** In Progress
+**Initial Release:** In Progress   
 **iOS Team Size:** 1
 {% endtextalign %}
 
@@ -24,8 +24,7 @@ Side Project
 
 {% textalign left %}
 Ski Trip is a game I'm working on which involves a mountain town lending interaction with the characters and then a skiing game. There's currently four different mountain levels to unlock, all with their own personality. Your character aims to collect coins to unlock hearts and complete levels to defeat the antagonist and save the town.    
-I'm developing this game with the help of a musician friend whom is creating all the sounds that go into the game - they really make a huge difference.  
-
+I'm developing this game with the help of a musician friend whom is creating all the sounds that go into the game - they really make a huge difference.   
 **Takeaways**  
 * **SpriteKit** SpriteKit was relatively easy to pick up and get going with. I'm excited with the possibilities this framework offers. 
 * **Game Assets** I've created all the game assets using Sketch which probably isn't the most efficient tool for this type of thing but it's getting the job done.  
