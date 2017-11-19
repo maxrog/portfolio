@@ -29,13 +29,13 @@ The Dewey's app is a tool used for them to keep customers up to date on their ev
 **Takeaways**  
 * **Firebase CMS** Used to send push notifications to users about daily specials etc.  
 * **Google Calendar** Their Google Calendar data is pulled and filtered to display data. 
-* **Unit Testing** In process of implementing unit testing for Realm, network, and manager classes.
+* **Unit Testing** Implement unit testing for Realm classes, network, manager classes, and view controllers.
 {% endtextalign %}
 
 {% textalign left %}
-This app is simple at it's core. That means it lent an opportunity for me to work towards a clean, crisp UI/UX. I also used it to help get more experience with unit testing. 
+This app is simple at it's core. That means it lent an opportunity for me to work towards a clean, crisp UI/UX.  
 I was given permission from the client to make the code available on [GitHub](https://github.com/maxrog/DeweysRacine "https://github.com/maxrog/DeweysRacine").  
-**Moving Forward**: Finishing touches
+**Moving Forward**: Finishing touches, more code coverage
 {% endtextalign %}
 
 {% youtube BvWm6B7aFHs %}
