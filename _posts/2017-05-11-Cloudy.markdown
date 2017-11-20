@@ -22,7 +22,7 @@ Side Project
 {% section_title Contributions & Takeaways %}
 
 {% textalign left %}
-Cloudy is an iOS application that is apart of the [course] (https://cocoacasts.com/mastering-model-view-viewmodel-with-swift "https://cocoacasts.com/mastering-model-view-viewmodel-with-swift") "Mastering MVVM With Swift" led by Bart Jacobs. The course takes a standard MVC project and transforms it into MVVM + RxSwift, highlighting the advantages of this architecture.  
+Cloudy is an iOS application that is apart of the [course](https://cocoacasts.com/mastering-model-view-viewmodel-with-swift "https://cocoacasts.com/mastering-model-view-viewmodel-with-swift") "Mastering MVVM With Swift" led by Bart Jacobs. The course takes a standard MVC project and transforms it into MVVM + RxSwift, highlighting the advantages of this architecture.  
 **Takeaways**  
 
 {% endtextalign %}
