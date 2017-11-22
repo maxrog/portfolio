@@ -2,7 +2,7 @@
 layout: post
 title:  "Racine Unified School District"
 subtitle: "Information Systems"
-date:   2017-05-08 00:30:00
+date:   2017-05-09 00:30:00
 categories: iphone
 permalink: "RUSD"
 device: "iphone"

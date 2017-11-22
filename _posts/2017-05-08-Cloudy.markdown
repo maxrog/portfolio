@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Cloudy"
+subtitle: "MVC -> MVVM"
+date:   2017-05-08 00:30:00
+categories: iphone
+permalink: "Cloudy"
+device: "iphone"
+app_preview: "/images/Cloudy/preview-Cloudy.png"
+name: "Cloudy"
+tagline: "MVC -> MVVM"
+app_icon: "/images/Cloudy/icon-Cloudy.png"
+---
+
+{% textalign left %}
+Cloudy is a weather iOS application that is apart of the [course](https://cocoacasts.com/mastering-model-view-viewmodel-with-swift "https://cocoacasts.com/mastering-model-view-viewmodel-with-swift") "Mastering MVVM With Swift" led by Bart Jacobs. The course takes a standard MVC project and refactors it into MVVM, highlighting the advantages of this architecture.  
+Note: I did NOT write the code for this app.
+{% endtextalign %}
+
+
+{% section_title Introduction %}
+
+{% textalign left %}
+MVC was introduced to me when I first began learning iOS development, and is the pattern that I have mostly followed. It is usually taught with a diagram conveying that the view controller acts as a kind of mediator to the model and the view. The view controller owns both the view and model which should never interact with eachother. I enjoy the pattern - it gives a nice separation of concerns. I learned quickly that it's easy for the view controller to get bloated with code that arguably doesn't belong in there. I made it a priority to learn how to better abstract my code. This course has done a fantastic job of presenting the advantages of a MVVM architecture.  
+I'll cover some of the benefits of I discovered during this course and what I think about MVVM.
+{% endtextalign %}
+
+{% section_title Small, Concise View Controllers %}
+
+{% textalign left %}
+Since MVVM adds another layer of abstraction between the model and view controller, this means the preparation for views can be done elsewhere and the view controller can solely worry about displaying it's views and dealing with user interaction. Also, it no longer holds a reference to the model - it simply passes what it's given from the view-model to the view. 
+{% endtextalign %}
+
+{% section_title Improved Testability %}
+
+{% textalign left %}
+This is the largest appeal to me for deploying a more MVVM approach over MVC. View controllers can be a real pain to test, but with MVVM modularizing most of the data manipulation, it becomes easy to test both the view-models and the view controllers. I also learned how to use stubs to mock network responses and test RxSwift drivers. 
+{% endtextalign %}
+
+{% section_title Reactive Programming %}
+
+{% textalign left %}
+MVVM paired with reactive programming has shown to be a powerful combination. In this course, we implemented RxSwift as our binding service along with RxCocoa to *reactify* the UIKit components. RxSwift gives the ability to automatically update a view when the model changes. This does not mean they communicate with eachother. We used our view-model's driver (stream of data) that the view controller subscribes to and then updates the view when relevant changes happen.
+{% endtextalign %}
+
+{% section_title Will I Use MVVM? %}
+
+{% textalign left %}
+This course was a great learning experience for me. It was very convenient that I got to see how the original MVC project compares to the refactored MVVM one. Bart also helped me learn more about best practices and code quality by touching on protocol oriented programming and general abstraction/decoupling. I also enjoyed how he handles network calls and memory management. I highly reccomend this course or subscribing to Bart's blog to learn more about Swift/iOS development. I will definitely be adopting some techniques I learned and would not be opposed to implementing a MVVM + reactive architecture in my future projects. 
+{% endtextalign %}
+
+
+
+
+
