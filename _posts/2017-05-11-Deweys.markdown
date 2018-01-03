@@ -24,8 +24,7 @@ Side Project
 {% section_title Contributions & Takeaways %}
 
 {% textalign left %}
-The Dewey's app is a tool used for them to keep customers up to date on their events and general information about the establishment. 
-
+The Dewey's app is a tool used for them to keep customers up to date on their events and general information about the establishment.  
 **Takeaways**  
 * **Firebase CMS** Used to send push notifications to users about daily specials etc.  
 * **Google Calendar** Their Google Calendar data is pulled and filtered to display data. 
