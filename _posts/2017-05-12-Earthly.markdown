@@ -25,9 +25,9 @@ Side Project
 {% textalign left %}
 Earthly is an application used mostly for geographical purposes. It displays a 3d globe that user's can interact with. It includes different tile layers to be displayed including weather overlays. It also includes a screen that allows users to look around and see points of interest in the area.   
 **Takeaways**  
-* **WhirlyGlobe** This is an amazing SDK I found for creating and managing the globe. The library has so many features if you're willing to do a little ground work. I don't want to release until I know I got the most out of it.  
+* **WhirlyGlobe** This is a great SDK I found for creating and managing the globe. The library has an impressive amount of capabilities if you're willing to do a little ground work. I don't want to release until I know I got the most out of it.  
 * **Aeris Weather** Weather data is pulled from the Aeris Weather API to display the weather globe overlay. 
-* **ARKit** ARKit is used to place annotations around the user for places of interest within a certain radius. I used the **HDAugmentedReality** CocoaPod to assist with determining what direction the phone is pointing to place the annotations in the correct position.
+* **ARKit** Used to place annotations around the user for places of interest within a certain radius. I used the **HDAugmentedReality** CocoaPod to assist with determining what direction the phone is pointing to place the annotations in the correct position.
 {% endtextalign %}
 
 {% textalign left %}
