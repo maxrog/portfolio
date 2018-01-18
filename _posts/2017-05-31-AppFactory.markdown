@@ -28,7 +28,7 @@ That is, until I found my love for mobile programming after enrolling in my Mobi
 {% section_title My Experience at Hivecast • December 2017 %}
 
 {% textalign left %}
-Hivecast is a startup company centered around a livestreaming application. The CEO, Paul Lemley and his partner Ryan Daulton, are two very driven individuals and are a pleasure to work with. They've made sure to include me in the whole process, listening to my ideas and input. I've learned some of the ins and outs of running a business - in short, to create a successful product it usually takes a lot more work than just developing some software. The iOS application offers a unique twist on livestreaming and the technology implemented specificially on the network layer has taught me a lot. The app is still in its early stages but I gained experience on picking up a large, complex codebase and contributing as soon as possible. I've also encountered hurdles to be overcome working remotely.
+Hivecast is a startup company centered around a livestreaming application. The CEO, Paul Lemley and his partner Ryan Daulton, are two very driven individuals and are a pleasure to work with. They've made sure to include me in the whole process, listening to my ideas and input. I've learned some of the ins and outs of running a business - in short, to create a successful product it usually takes a lot more work than just developing some software. The iOS application offers a unique twist on livestreaming and complex network layer has taught me a lot. The app is still in its early stages but I gained experience on picking up a large, complciated codebase and contributing as soon as possible. I've also encountered hurdles to be overcome working remotely.
 {% endtextalign %}
 
 {% textalign center %}

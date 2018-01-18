@@ -14,7 +14,6 @@ app_icon: "/images/Cloudy/icon-Cloudy.png"
 
 {% textalign left %}
 Cloudy is a weather iOS application that is apart of the [course](https://cocoacasts.com/mastering-model-view-viewmodel-with-swift "https://cocoacasts.com/mastering-model-view-viewmodel-with-swift") "Mastering MVVM With Swift" led by Bart Jacobs. The course takes a standard MVC project and refactors it into MVVM, highlighting the advantages of this architecture.  
-Note: I did NOT write the code for this app.
 {% endtextalign %}
 
 
