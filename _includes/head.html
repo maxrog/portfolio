@@ -43,4 +43,8 @@
   <meta property="og:url" content="{% if page.facebook.url %}{{ page.facebook.url }}{% elsif page.url %}{{ page.url | prepend: site.url }}{% else %}{{  site.url }}{% endif %}" >
   {% endif %}
 
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+  
 </head>
