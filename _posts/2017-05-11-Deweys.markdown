@@ -8,7 +8,7 @@ permalink: "Deweys"
 device: "iphone"
 app_preview: "/images/Deweys/preview-Deweys.png"
 name: "Dewey's Racine"
-tagline: "In Progress"
+tagline: "March, 2018"
 app_icon: "/images/Deweys/icon-Deweys.png"
 ---
 
@@ -17,7 +17,7 @@ app_icon: "/images/Deweys/icon-Deweys.png"
 {% textalign left %}
 Side Project  
 **Client:** Dewey's Restaurant & Sports Bar   
-**Initial Release:** In Progress  
+**Initial Release:** March 2018
 **iOS Team Size:** 1
 {% endtextalign %}
 
@@ -32,12 +32,14 @@ The Dewey's app is a tool for the business owners to keep customers up to date o
 {% endtextalign %}
 
 {% textalign left %}
-This app is simple at it's core. That means it lent an opportunity for me to work towards a clean, crisp UI/UX.  
+This app is simple at it's core.  
 I was given permission from the client to make the code available on [GitHub](https://github.com/maxrog/DeweysRacine "https://github.com/maxrog/DeweysRacine").  
-**Moving Forward**: Finishing touches, more code coverage
+**Moving Forward**: Maintenance
 {% endtextalign %}
 
 {% youtube BvWm6B7aFHs %}
+
+{% download app_store | https://itunes.apple.com/us/app/deweysracine/id1351069299?ls=1&mt=8 %}
 
 {% textalign center %}
 [Client Website](https://www.deweysracine.com "https://www.deweysracine.com")
