@@ -16,11 +16,9 @@ app_icon: "/images/AppFactory/header-icon.png"
 {% section_title Mister Rogers %}
 
 {% textalign left %}
-As soon as I started my degree in Computer Science, I knew that I would enjoy a career in this field. I enjoyed tinkering around and the research necessary to complete class assignments and projects. It was fun, but I wouldn't say it was a hobby of mine.
-{% endtextalign %}
+Hello, I'm Max Rogers! I'm a passionate mobile developer, specifically iOS. Although mobile is my main focus, I feel that my intuition, self driven personality, and foundation studying computer science make me a very well rounded software developer. iOS simply gives me the most satisfaction and I'm still facing new challenges to tackle. 
 
-{% textalign left %}
-That is, until I found my love for mobile programming after enrolling in my Mobile Development and Software Engineering courses. I started with Android development due to my background in Java, but quickly moved on to iOS development after getting accepted as a developer at the App Factory in December 2016. I've since fallen in love with iOS/Swift development. The whole development process is very satisfying to me. Swift's clean syntax, safety, and performance make it a pleasure to fire up Xcode and get to work. I enjoy making awesome user interfaces just as much as I love coming up with an efficient algorithm that uses Swift's full potential. I always have one (or more) side projects I'm working on because I have so many ideas that I want to see come into fruition. I've become engulfed in the software development world and am always motivated to learn more. Below is some of my work experience.
+Below is a recap of my work experience and you can go back to my website's home page, swipe and see more about some of the apps I've built. 
 {% endtextalign %}
 
 {% img center | /images/AppFactory/hivecast-icon.png | App Factory %}
