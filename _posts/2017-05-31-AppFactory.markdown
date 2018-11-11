@@ -16,9 +16,9 @@ app_icon: "/images/AppFactory/header-icon.png"
 {% section_title Mister Rogers %}
 
 {% textalign left %}
-Hello, I'm Max Rogers! I'm a passionate mobile developer, specifically iOS. Although mobile is my main focus, I feel that my intuition, self driven personality, and foundation studying computer science make me a very well rounded software developer. iOS simply gives me the most satisfaction and I'm still facing new challenges to tackle. 
-
-Below is a recap of my work experience and you can go back to my website's home page, swipe and see more about some of the apps I've built. 
+Hello, I'm Max Rogers! I'm a passionate mobile developer, specifically iOS. Although mobile is my main focus, I feel that my intuition, self driven personality, and foundation studying computer science make me a very well rounded software developer. iOS simply gives me the most satisfaction and I'm still facing new challenges to tackle.  
+  
+  Below is a recap of my work experience and you can go back to my website's home page, swipe and see more about some of the apps I've built. 
 {% endtextalign %}
 
 {% img center | /images/AppFactory/hivecast-icon.png | App Factory %}
