@@ -15,7 +15,7 @@ app_icon: "/images/SkiTrip/icon-SkiTrip.png"
 {% img center | /images/SkiTrip/SkiTrip_1.png | SkiTrip %}
 
 {% textalign left %}
-Side Project   
+Personal Project   
 **Initial Release:** In Progress   
 **iOS Team Size:** 1
 {% endtextalign %}

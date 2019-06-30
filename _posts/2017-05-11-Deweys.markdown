@@ -15,7 +15,7 @@ app_icon: "/images/Deweys/icon-Deweys.png"
 {% img center | /images/Deweys/Deweys_1.png | Deweys %}
 
 {% textalign left %}
-Side Project  
+Freelance Project  
 **Client:** Dewey's Restaurant & Sports Bar   
 **Initial Release:** March 2018  
 **iOS Team Size:** 1

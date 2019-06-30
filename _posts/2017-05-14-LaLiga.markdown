@@ -14,8 +14,7 @@ app_icon: "/images/LaLiga/icon-LaLiga.png"
 
 {% img center | /images/LaLiga/LaLiga_1.png | LaLiga %}
 
-{% textalign left %}
-**Developed while working for YinzCam Inc**
-{% endtextalign %}
+
+{% section_title Developed while working for YinzCam Inc %}
 
 {% download app_store | https://itunes.apple.com/us/app/la-liga-live-soccer-scores/id545609647?mt=8 %}

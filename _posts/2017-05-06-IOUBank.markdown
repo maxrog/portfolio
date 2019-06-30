@@ -15,7 +15,7 @@ app_icon: "/images/IOUBank/icon-IOU.png"
 {% img center | /images/IOUBank/IOUBank_1.png | IOU Bank %}
 
 {% textalign left %}
-Side Project  
+Personal Project  
 **Initial Release:** June 06, 2017  
 **iOS Team Size:** 1
 {% endtextalign %}
