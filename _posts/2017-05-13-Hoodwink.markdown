@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Hoodwink"
+subtitle: "Help Roger Escape His Phone"
+date:   2017-05-13 00:30:00
+categories: iphone
+permalink: "Hoodwink"
+device: "iphone"
+app_preview: "/images/Hoodwink/preview-Hoodwink.png"
+name: "Hoodwink"
+tagline: "In Progress"
+app_icon: "/images/Hoodwink/icon-Hoodwink.png"
+---
+
+{% img center | /images/Hoodwink/Hoodwink_1.png | Hoodwink %}
+
+{% textalign left %}
+Personal Project     
+**Initial Release:** In Progress  
+**iOS Team Size:** 1
+{% endtextalign %}
+
+{% section_title Contributions & Takeaways %}
+
+{% textalign left %}
+Hoodwink has been a blast to develop. I tried to use my creativity to explore something a little different. It is a puzzle game about a person who uses their phone too much, leading to them getting physically warped into the phone. Each level is a different game or puzzle that encourages you to try to find Roger to help him escape his phone. Every time you manage to find him, you unlock the next app or level in the game. 
+
+**Takeaways**  
+A lot of this project has been trying to replicate what I invisioned for this game. I designed most of the assets and UX. The home screen is it's own version of the iOS springboard, complete with movable widgets, battery life, reordering of apps, etc. All the unique levels mean I designed and programmed ~10 different simple apps within one app. 
+
+It was also fun architecting the app. Since a lot of the levels share functionality and characteristics, I enjoyed shifting to a more POP paradigm rather than OOP. This is something I've been trying to do in all of my programming since it is Swift's bread and butter. 
+{% endtextalign %}
+
+{% textalign left %}
+Hoodwink is one of my favorite creations so far. It is currently on TestFlight and if anyone wants an invite I can forward a link!
+**Moving Forward**: Add more features/levels before release
+{% endtextalign %}
+
+{% youtube bCAm3sOjBxo%}

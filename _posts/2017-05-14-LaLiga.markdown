@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "LaLiga Official App"
+subtitle: "Stats, Highlights, & News"
+date:   2017-05-14 00:30:00
+categories: iphone
+permalink: "LaLiga"
+device: "iphone"
+app_preview: "/images/LaLiga/preview-LaLiga.png"
+name: "LaLiga Official App"
+tagline: "2019"
+app_icon: "/images/LaLiga/icon-LaLiga.png"
+---
+
+{% img center | /images/LaLiga/LaLiga_1.png | LaLiga %}
+
+{% textalign left %}
+**Developed while working for YinzCam Inc**
+{% endtextalign %}
+
+{% download app_store | https://itunes.apple.com/us/app/la-liga-live-soccer-scores/id545609647?mt=8 %}
