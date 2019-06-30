@@ -60,8 +60,8 @@ I've had a blast working in this environment and it's given me the drive to neve
 When I'm not working on applications, I like to try to find myself some fun! I realize that it's important to have a balance so that my work can feel fresh.  
 **Some of the things I enjoy:**  
 Sports **●** Fitness **●** Food/Diet  
-"The Great Outdoors" **●** Traveling **●** Camping **●** Hiking **●** Fishing    
-Tea **●** Coffee **●** Craft Beer
+Climbing **●** Camping **●** Hiking **●** Fishing    
+Tea **●** Wine **●** Beer
 {% endtextalign %}
 
 
