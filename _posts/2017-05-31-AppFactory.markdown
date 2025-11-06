@@ -16,9 +16,9 @@ app_icon: "/images/AppFactory/header-icon.png"
 {% section_title Mister Rogers %}
 
 {% textalign left %}
-Hello, I'm Max Rogers! I'm a passionate mobile developer, specifically iOS. Although mobile is my main focus, I feel that my intuition, self driven personality, and foundation studying computer science make me a very well rounded software developer. iOS simply gives me the most satisfaction and I'm still facing new challenges to tackle.  
+Hello, I'm Max Rogers! I'm a passionate mobile developer, specifically iOS. Although mobile is my main focus, I feel that my intuition, self driven personality, and foundation studying computer science make me a very well rounded software engineer. iOS simply gives me the most satisfaction and ability to express myself.  
   
-  Below is a recap of my work experience and you can go back to my website's home page, swipe and see more about some of the apps I've built. 
+  Below is a recap of my work experience. You can also go back to my website's home page and swipe to see more about some of the apps I've built. 
 {% endtextalign %}
 
 {% img center | /images/AppFactory/hivecast-icon.png | App Factory %}
@@ -57,11 +57,11 @@ I've had a blast working in this environment and it's given me the drive to neve
 {% section_title Outside of Development %}
 
 {% textalign left %}
-When I'm not working on applications, I like to try to find myself some fun! I realize that it's important to have a balance so that my work can feel fresh.  
+When I'm not working in front of the screen, I like to try to find myself some fun! I realize that it's important to have a balance so that my work can feel fresh.  
 **Some of the things I enjoy:**  
-Sports **●** Fitness **●** Food/Diet  
+Family Time (Dad) **●** Sports **●** Fitness **●** Food/Diet  
 Climbing **●** Camping **●** Hiking **●** Fishing    
-Tea **●** Wine **●** Beer
+Coffee **●** Tea **●** Beer
 {% endtextalign %}
 
 
