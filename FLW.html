@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Frank Lloyd Wright Trail</title>
+  <meta name="author" content="Max Rogers" />
+  <meta name="description" content="Explore the FLW Trail Located in Wisconsin" >
+  <meta name="keywords" content="mac,apple,iphone,ios,osx,games,apps,development" >
+  <link rel="alternate" type="application/rss+xml" title="Max Rogers" href="http://www.maxrog.github.io/feed.xml" />
+  <link rel="stylesheet" href="/css/component.css">
+  <link rel="stylesheet" href="/css/demo.css">
+  <link rel="canonical" href="http://www.maxrog.github.io/FLW">
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="stylesheet" type="text/css" href="/fonts/feather/style.css">
+  <link rel="stylesheet" type="text/css"  href="/css/animate.min.css">
+  <script src="/js/modernizr.custom.js"></script>
+  <script src="/js/hammer.min.js"></script>
+  
+  <meta property="og:site_name" content="Max Rogers"/>
+  <meta property="og:title" content="Frank Lloyd Wright Trail"/>
+  <meta property="og:description" content="Explore the FLW Trail Located in Wisconsin" />
+  
+  
+  
+
+  <meta property="og:image" content="http://www.maxrog.github.io/images/delightfuldev-facebook-cover.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://www.maxrog.github.io/FLW" >
+  
+
+  
+  
+</head>
+
+
+  <body>
+      <div class="container">
+          <header class="bp-header cf">
+	
+</header>
+
+
+          <section class="content content--open">
+	<div class="content__item content__item--current content__item--reset">
+		<div class="content__item-inner">
+			
+			
+			<img class="content__item-img animated bounceInDown" src="/images/FLW/icon-FLW.png" alt="Frank Lloyd Wright Trail" id="app-icon" />
+			<h2>Frank Lloyd Wright Trail</h2>
+			<h3>Explore the FLW Trail Located in Wisconsin</h3>
+
+            <p><img class="content__item-img-center animated zoomIn" src="/images/FLW/FLW_1.png" alt="Frank Lloyd Wright Trail" /></p>
+
+<p class="content__item-left">
+Developed through the App Factory<br />
+<strong>Client:</strong> SC Johnson &amp; Son, Inc.<br />
+<strong>Initial Release:</strong> May 10, 2017<br />
+<strong>iOS Team Size:</strong> 2
+</p>
+
+<h3 id="section_title">Contributions &amp; Takeaways</h3>
+
+<p class="content__item-left">
+The app consists of two main features - the location map view and the trip planner. Most of my work was done on the trip planner. We needed a basic flow to aid user’s planning a trip to visit some of FLW’s buildings that fall on the trail. With the help of <strong>Google’s Directions API</strong> and <strong>Realm’s Mobile Database</strong> we came up with a solution.<br />
+This was my first real iOS application. Yes, their were plenty of obstacles to overcome but I had an experienced dev as my lead to guide me if I needed help.<br />
+<strong>Takeaways</strong>
+<ul>
+  <li>Basics of <strong>MVC</strong> pattern to display data in <strong>Table Views</strong>/<strong>Collection Views</strong> and how to pass this data between <strong>View Controllers</strong> whether through <strong>Segues</strong> or <strong>Delegation</strong>.</li>
+  <li>Working with <strong>Auto Layout</strong></li>
+  <li>Integrating <strong>CocoaPods</strong> into a project</li>
+  <li><strong>Core Location</strong>: Display distance/overlay on the map and retrieve the starting location coordinates for our API calls in the trip planner.</li>
+  <li><strong>Realm</strong>: Persist the user’s trip data.</li>
+  <li><strong>Google Maps Directions API</strong>: Solve the traveling salesman problem in our algorithm by toggling the optimize waypoints option of the API call. Also used to display the duration of the drives between locations.
+    <ul>
+      <li>Not only did the API calls teach me Swift’s way of performing <strong>asynchronous network calls</strong> but also how to <strong>synchronize</strong> multiple calls before completion for when users construct multi-day trips.</li>
+    </ul>
+  </li>
+  <li><strong>Itunes Connect</strong> and <strong>TestFlight</strong> led to valuable feedback from my colleagues. I learned how to better design user forms. It’s a good idea to assume that user’s are dumb - design the flow as simple as possible and have all <strong>edge cases</strong> accounted for - commonly mitigated through the use of <strong>UIAlertControllers</strong>.</li>
+</ul>
+</p>
+
+<p class="content__item-left">
+The deadline for this project was at the end of the semester making it a wild ride the last couple weeks. This app gave me a nice base moving forward since I was introduced to a lot of the core components and nuances of iOS development.<br />
+<strong>Moving Forward</strong>: Enhanced Trip Planner, Maintenance
+</p>
+
+<div class="video-container"><iframe width="80%" max-width="640px" height="315" src="https://www.youtube.com/embed/IS0D_K7hAVU " frameborder="0" allowfullscreen=""></iframe></div>
+
+<p><a href=" https://itunes.apple.com/us/app/frank-lloyd-wright-trail/id1166393729?mt=8 "><img class="content__item-img-center" src="/images/app_store.png" /></a></p>
+
+<p class="content__item-center">
+<a href="http://www.scjohnson.com/en/company/architecture.aspx" title="http://www.scjohnson.com/en/company/architecture.aspx">Client Website</a>
+</p>
+
+
+			<div class="footer">
+				<p>© 2025 Max Rogers</p>
+
+			</div>
+		</div>
+	</div>
+
+	<button class="button button--close"><i class="icon icon--circle-cross"></i><span class="text-hidden">Close content</span></button>
+</section>
+
+
+
+      </div>
+
+      <section class="content">
+      </section>
+
+      
+
+
+
+
+    <script src="/js/classie.js"></script>
+  	<script src="/js/dynamics.min.js"></script>
+  	<script src="/js/main.js"></script>
+  </body>
+
+
+</html>

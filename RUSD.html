@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Racine Unified School District</title>
+  <meta name="author" content="Max Rogers" />
+  <meta name="description" content="Information Systems" >
+  <meta name="keywords" content="mac,apple,iphone,ios,osx,games,apps,development" >
+  <link rel="alternate" type="application/rss+xml" title="Max Rogers" href="http://www.maxrog.github.io/feed.xml" />
+  <link rel="stylesheet" href="/css/component.css">
+  <link rel="stylesheet" href="/css/demo.css">
+  <link rel="canonical" href="http://www.maxrog.github.io/RUSD">
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="stylesheet" type="text/css" href="/fonts/feather/style.css">
+  <link rel="stylesheet" type="text/css"  href="/css/animate.min.css">
+  <script src="/js/modernizr.custom.js"></script>
+  <script src="/js/hammer.min.js"></script>
+  
+  <meta property="og:site_name" content="Max Rogers"/>
+  <meta property="og:title" content="Racine Unified School District"/>
+  <meta property="og:description" content="Information Systems" />
+  
+  
+  
+
+  <meta property="og:image" content="http://www.maxrog.github.io/images/delightfuldev-facebook-cover.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://www.maxrog.github.io/RUSD" >
+  
+
+  
+  
+</head>
+
+
+  <body>
+      <div class="container">
+          <header class="bp-header cf">
+	
+</header>
+
+
+          <section class="content content--open">
+	<div class="content__item content__item--current content__item--reset">
+		<div class="content__item-inner">
+			
+			
+			<img class="content__item-img animated bounceInDown" src="/images/RUSD/icon-RUSD.png" alt="Racine Unified School District" id="app-icon" />
+			<h2>Racine Unified School District</h2>
+			<h3>Information Systems</h3>
+
+            <p><img class="content__item-img-center animated zoomIn" src="/images/RUSD/RUSD_1.png" alt="RUSD" /></p>
+
+<p class="content__item-left">
+Developed through the App Factory<br />
+<strong>Client:</strong> Racine Unified School District<br />
+<strong>Initial Release:</strong> Ready to Release <br />
+<strong>iOS Team Size:</strong> 1
+</p>
+
+<h3 id="section_title">Contributions &amp; Takeaways</h3>
+
+<p class="content__item-left">
+The RUSD app’s main feature is to enable staff (particularly IS) to view relevant messages. It allows the client to log in to a web portal and send out push notifications to relevant topics (training, outages, etc) and update contact information. This project consisted of an iOS, Android, and Web component. The iOS component is deployed on an enterprise developer account to distribute internally to their employees.<br />
+<strong>Takeaways</strong>
+<ul>
+  <li><strong>User Authentication</strong> Logging in through our Node.js/MongoDB backend which communicates with RUSD’s LDAP system to authenticate the user.</li>
+  <li><strong>Handling Tokens</strong> Logic to check if a refresh is needed and what to do on failure. Keeping our server updated on any updated registration tokens received through Firebase. Securely storing access tokens on authentication success.</li>
+  <li><strong>Subscription Logic</strong> User’s are allowed to choose their subscription level by opting in to their location only, district-wide, or unsubscribe all together. This data along with user employment changes is actively synced with our server via HTTP Post requests. Our notifications were also filtered client side for viewing purposes.</li>
+</ul>
+</p>
+
+<p class="content__item-left">
+I really enjoyed this project as it gave a nice challenge to our team to communicate properly. I have to give thanks to our web guys for writing great API documentation. Client side we had to put our heads together regarding all the edge cases during our network calls. I believe we handled them all properly and it resulted in a robust application. <br />
+<strong>Moving Forward</strong>: Maintenance
+</p>
+
+<div class="video-container"><iframe width="80%" max-width="640px" height="315" src="https://www.youtube.com/embed/-9_SG2NOMkM " frameborder="0" allowfullscreen=""></iframe></div>
+
+<p class="content__item-center">
+<a href="http://www.rusd.org" title="http://www.rusd.org">Client Website</a>
+</p>
+
+
+			<div class="footer">
+				<p>© 2025 Max Rogers</p>
+
+			</div>
+		</div>
+	</div>
+
+	<button class="button button--close"><i class="icon icon--circle-cross"></i><span class="text-hidden">Close content</span></button>
+</section>
+
+
+
+      </div>
+
+      <section class="content">
+      </section>
+
+      
+
+
+
+
+    <script src="/js/classie.js"></script>
+  	<script src="/js/dynamics.min.js"></script>
+  	<script src="/js/main.js"></script>
+  </body>
+
+
+</html>

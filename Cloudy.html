@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cloudy</title>
+  <meta name="author" content="Max Rogers" />
+  <meta name="description" content="MVC -> MVVM" >
+  <meta name="keywords" content="mac,apple,iphone,ios,osx,games,apps,development" >
+  <link rel="alternate" type="application/rss+xml" title="Max Rogers" href="http://www.maxrog.github.io/feed.xml" />
+  <link rel="stylesheet" href="/css/component.css">
+  <link rel="stylesheet" href="/css/demo.css">
+  <link rel="canonical" href="http://www.maxrog.github.io/Cloudy">
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="stylesheet" type="text/css" href="/fonts/feather/style.css">
+  <link rel="stylesheet" type="text/css"  href="/css/animate.min.css">
+  <script src="/js/modernizr.custom.js"></script>
+  <script src="/js/hammer.min.js"></script>
+  
+  <meta property="og:site_name" content="Max Rogers"/>
+  <meta property="og:title" content="Cloudy"/>
+  <meta property="og:description" content="MVC -> MVVM" />
+  
+  
+  
+
+  <meta property="og:image" content="http://www.maxrog.github.io/images/delightfuldev-facebook-cover.png" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://www.maxrog.github.io/Cloudy" >
+  
+
+  
+  
+</head>
+
+
+  <body>
+      <div class="container">
+          <header class="bp-header cf">
+	
+</header>
+
+
+          <section class="content content--open">
+	<div class="content__item content__item--current content__item--reset">
+		<div class="content__item-inner">
+			
+			
+			<img class="content__item-img animated bounceInDown" src="/images/Cloudy/icon-Cloudy.png" alt="Cloudy" id="app-icon" />
+			<h2>Cloudy</h2>
+			<h3>MVC -> MVVM</h3>
+
+            <p class="content__item-left">
+Cloudy is a weather iOS application that is apart of the <a href="https://cocoacasts.com/mastering-model-view-viewmodel-with-swift" title="https://cocoacasts.com/mastering-model-view-viewmodel-with-swift">course</a> “Mastering MVVM With Swift” led by Bart Jacobs. The course takes a standard MVC project and refactors it into MVVM, highlighting the advantages of this architecture.
+</p>
+
+<h3 id="section_title">Introduction</h3>
+
+<p class="content__item-left">
+MVC was introduced to me when I first began learning iOS development, and is the pattern that I have mostly followed. It is usually taught with a diagram conveying that the view controller acts as a kind of mediator to the model and the view. The view controller owns both the view and model which should never interact with eachother. I enjoy the pattern - it gives a nice separation of concerns. I learned quickly that it’s easy for the view controller to get bloated with code that arguably doesn’t belong in there. I made it a priority to learn how to better abstract my code. This course has done a fantastic job of presenting the advantages of a MVVM architecture.<br />
+I’ll cover some of the benefits of I discovered during this course and what I think about MVVM.
+</p>
+
+<h3 id="section_title">Small, Concise View Controllers</h3>
+
+<p class="content__item-left">
+Since MVVM adds another layer of abstraction between the model and view controller, this means the preparation for views can be done elsewhere and the view controller can solely worry about displaying it’s views and dealing with user interaction. Also, it no longer holds a reference to the model - it simply passes what it’s given from the view-model to the view.
+</p>
+
+<h3 id="section_title">Improved Testability</h3>
+
+<p class="content__item-left">
+This is the largest appeal to me for deploying a more MVVM approach over MVC. View controllers can be a real pain to test, but with MVVM modularizing most of the data manipulation, it becomes easy to test both the view-models and the view controllers. I also learned how to use stubs to mock network responses and test RxSwift drivers.
+</p>
+
+<h3 id="section_title">Reactive Programming</h3>
+
+<p class="content__item-left">
+MVVM paired with reactive programming has shown to be a powerful combination. In this course, we implemented RxSwift as our binding service along with RxCocoa to <em>reactify</em> the UIKit components. RxSwift gives the ability to automatically update a view when the model changes. This does not mean they communicate with eachother. We used our view-model’s driver (stream of data) that the view controller subscribes to and then updates the view when relevant changes happen.
+</p>
+
+<h3 id="section_title">Will I Use MVVM?</h3>
+
+<p class="content__item-left">
+This course was a great learning experience for me. It was very convenient that I got to see how the original MVC project compares to the refactored MVVM one. Bart also helped me learn more about best practices and code quality by touching on protocol oriented programming and general abstraction/decoupling. I also enjoyed how he handles network calls and memory management. I highly reccomend this course or subscribing to Bart’s blog to learn more about Swift/iOS development. I will definitely be adopting some techniques I learned and would not be opposed to implementing a MVVM + reactive architecture in my future projects.
+</p>
+
+
+
+			<div class="footer">
+				<p>© 2025 Max Rogers</p>
+
+			</div>
+		</div>
+	</div>
+
+	<button class="button button--close"><i class="icon icon--circle-cross"></i><span class="text-hidden">Close content</span></button>
+</section>
+
+
+
+      </div>
+
+      <section class="content">
+      </section>
+
+      
+
+
+
+
+    <script src="/js/classie.js"></script>
+  	<script src="/js/dynamics.min.js"></script>
+  	<script src="/js/main.js"></script>
+  </body>
+
+
+</html>

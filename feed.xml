@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Max Rogers</title>
+    <description>The Portfolio of Max Rogers</description>
+    <link>http://www.maxrog.github.io/</link>
+    <atom:link href="http://www.maxrog.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 06 Nov 2025 15:14:38 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 15:14:38 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.4</generator>
+    
+      <item>
+        <title>About Max</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/smallHeadShot.png&quot; alt=&quot;App Factory&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Mister Rogers&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Hello, I’m Max Rogers! I’m a passionate mobile developer, specifically iOS. Although mobile is my main focus, I feel that my intuition, self driven personality, and foundation studying computer science make me a very well rounded software engineer. iOS simply gives me the most satisfaction and ability to express myself.
+
+Below is a recap of my work experience. You can also go back to my website’s home page and swipe to see more about some of the apps I’ve built.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/AppFactory/hivecast-icon.png&quot; alt=&quot;App Factory&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;My Experience at Hivecast • December 2017&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Hivecast is a startup company centered around a livestreaming application. The CEO, Paul L and his partner Ryan D , are two very driven individuals and a pleasure to work with. They made sure to include me in the whole process, listening to my ideas and input. I learned some of the ins and outs, and struggles to create a successful product from scratch. It takes a lot more work than just developing some software. The iOS application offers a unique twist on livestreaming, displaying multiple streams at once with one user as the director. It had a complex network layer that I enjoyed investigating and required some thoughtful debugging. The app is still in its early stages but I gained experience on picking up a foreign codebase and contributing as soon as possible. I also encountered hurdles to be overcome working and managing the development lifecyle remotely.
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-center&quot;&gt;
+&lt;a href=&quot;https://www.hivecast.co&quot; title=&quot;https://www.hivecast.co&quot;&gt;Hivecast Website&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/AppFactory/gear-icon.png&quot; alt=&quot;App Factory&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;My Experience at the App Factory • December 2016&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+The App Factory is an interdisciplinary group located on UW-Parkside’s campus. We are made up of faculty mentors and student interns who develop iOS, Android, and web applications.
+&lt;ul&gt;
+  &lt;li&gt;We abide by &lt;strong&gt;Agile Methodologies&lt;/strong&gt;, perform weekly standups, make use of &lt;strong&gt;Jira&lt;/strong&gt; for project management, &lt;strong&gt;Slack&lt;/strong&gt; for communication, and rotate &lt;strong&gt;Scrum&lt;/strong&gt; roles for new projects.&lt;/li&gt;
+  &lt;li&gt;Since we work with real clients, I’ve learned how to communicate ideas to technical and non-techinal people alike.&lt;/li&gt;
+  &lt;li&gt;I’ve experienced all the small details that go into quality products. Including writing &lt;strong&gt;Statements of Work&lt;/strong&gt;, &lt;strong&gt;UI/UX Design&lt;/strong&gt;, &lt;strong&gt;Testing&lt;/strong&gt;, &lt;strong&gt;Demoing&lt;/strong&gt; properly, apt presentation of applications on the App Store and more. The little things are what set applications apart and make for a happy client.&lt;/li&gt;
+  &lt;li&gt;I’ve dealt with the pressure to deliver a product in time for a hard deadline.&lt;/li&gt;
+  &lt;li&gt;Even just hanging around with other aspiring professionals, whether it’s learning something new or tutoring a new recruit, has molded me into a more well-rounded developer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+I’ve had a blast working in this environment and it’s given me the drive to never stop learning!
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-center&quot;&gt;
+&lt;a href=&quot;https://appfactory.link&quot; title=&quot; https://appfactory.link&quot;&gt;App Factory Website&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Outside of Development&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+When I’m not working in front of the screen, I like to try to find myself some fun! I realize that it’s important to have a balance so that my work can feel fresh.&lt;br /&gt;
+&lt;strong&gt;Some of the things I enjoy:&lt;/strong&gt;&lt;br /&gt;
+Family Time (Dad) &lt;strong&gt;●&lt;/strong&gt; Sports &lt;strong&gt;●&lt;/strong&gt; Fitness &lt;strong&gt;●&lt;/strong&gt; Food/Diet&lt;br /&gt;
+Climbing &lt;strong&gt;●&lt;/strong&gt; Camping &lt;strong&gt;●&lt;/strong&gt; Hiking &lt;strong&gt;●&lt;/strong&gt; Fishing  &lt;br /&gt;
+Coffee &lt;strong&gt;●&lt;/strong&gt; Tea &lt;strong&gt;●&lt;/strong&gt; Beer
+&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 31 May 2017 12:32:24 +0000</pubDate>
+        <link>http://www.maxrog.github.io/AboutMe</link>
+        <guid isPermaLink="true">http://www.maxrog.github.io/AboutMe</guid>
+        
+        
+        <category>imac</category>
+        
+      </item>
+    
+      <item>
+        <title>LaLiga Official App</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/LaLiga/LaLiga_1.png&quot; alt=&quot;LaLiga&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Developed while working for YinzCam Inc&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot; https://itunes.apple.com/us/app/la-liga-live-soccer-scores/id545609647?mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 May 2017 00:30:00 +0000</pubDate>
+        <link>http://www.maxrog.github.io/LaLiga</link>
+        <guid isPermaLink="true">http://www.maxrog.github.io/LaLiga</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
+        <title>Hoodwink</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/Hoodwink/Hoodwink_1.png&quot; alt=&quot;Hoodwink&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Personal Project   &lt;br /&gt;
+&lt;strong&gt;Initial Release:&lt;/strong&gt; In Progress&lt;br /&gt;
+&lt;strong&gt;iOS Team Size:&lt;/strong&gt; 1
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Contributions &amp;amp; Takeaways&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Hoodwink has been a blast to develop. I tried to use my creativity to explore something a little different. It is a puzzle game about a person who uses their phone too much, leading to them getting physically warped into the phone. Each level is a different game or puzzle that encourages you to try to find Roger to help him escape his phone. Every time you manage to find him, you unlock the next app or level in the game. &lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;Takeaways&lt;/strong&gt;  &lt;br /&gt;
+A lot of this project has been trying to replicate what I invisioned for this game. I designed most of the assets and UX. The home screen is it’s own version of the iOS springboard, complete with movable widgets, battery life, reordering of apps, etc. All the unique levels mean I designed and programmed ~10 different simple apps within one app. &lt;br /&gt;&lt;br /&gt;
+
+It was also fun architecting the app. Since a lot of the levels share functionality and characteristics, I enjoyed shifting to a more POP paradigm rather than OOP. This is something I’ve been trying to do in all of my programming since it is Swift’s bread and butter.
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Hoodwink is one of my favorite creations so far. It is currently on TestFlight and if anyone wants an invite I can forward a link! &lt;br /&gt;&lt;br /&gt;
+
+&lt;strong&gt;Moving Forward&lt;/strong&gt;: Add more features/levels before release
+&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bCAm3sOjBxo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sat, 13 May 2017 00:30:00 +0000</pubDate>
+        <link>http://www.maxrog.github.io/Hoodwink</link>
+        <guid isPermaLink="true">http://www.maxrog.github.io/Hoodwink</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
+        <title>Earthly</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/Earthly/Earthly_1.png&quot; alt=&quot;Earthly&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Personal Project   &lt;br /&gt;
+&lt;strong&gt;Initial Release:&lt;/strong&gt; In Progress&lt;br /&gt;
+&lt;strong&gt;iOS Team Size:&lt;/strong&gt; 1
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Contributions &amp;amp; Takeaways&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Earthly is an application used mostly for geographical purposes. It displays a 3d globe that user’s can interact with. It includes different tile layers to be displayed including weather overlays. It also includes a screen that allows users to look around and see points of interest in the area. &lt;br /&gt;
+&lt;strong&gt;Takeaways&lt;/strong&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;WhirlyGlobe&lt;/strong&gt; This is a great SDK I found for creating and managing the globe. The library has an impressive amount of capabilities if you’re willing to do a little ground work. I don’t want to release until I know I got the most out of it.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aeris Weather&lt;/strong&gt; Weather data is pulled from the Aeris Weather API to display the weather globe overlay.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ARKit&lt;/strong&gt; Used to place annotations around the user for places of interest within a certain radius. I used the &lt;strong&gt;HDAugmentedReality&lt;/strong&gt; CocoaPod to assist with determining what direction the phone is pointing to place the annotations in the correct position.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Earthly is pretty neat where it is, but I’d like to take it even further. I have some really cool ideas that I’m planning to implement. 
+The code for Earthly is available on &lt;a href=&quot;https://github.com/maxrog/Earthly&quot; title=&quot;https://github.com/maxrog/Earthly&quot;&gt;GitHub&lt;/a&gt;.&lt;br /&gt;
+&lt;strong&gt;Moving Forward&lt;/strong&gt;: Add more features before release
+&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/A1WYPKBOSNM &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+</description>
+        <pubDate>Fri, 12 May 2017 00:30:00 +0000</pubDate>
+        <link>http://www.maxrog.github.io/Earthly</link>
+        <guid isPermaLink="true">http://www.maxrog.github.io/Earthly</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
+        <title>Dewey&apos;s Racine</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/Deweys/Deweys_1.png&quot; alt=&quot;Deweys&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Freelance Project&lt;br /&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Dewey’s Restaurant &amp;amp; Sports Bar &lt;br /&gt;
+&lt;strong&gt;Initial Release:&lt;/strong&gt; March 2018&lt;br /&gt;
+&lt;strong&gt;iOS Team Size:&lt;/strong&gt; 1
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Contributions &amp;amp; Takeaways&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+The Dewey’s app is a tool for the business owners to keep customers up to date on their events and general information about the establishment.&lt;br /&gt;
+&lt;strong&gt;Takeaways&lt;/strong&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Firebase CMS&lt;/strong&gt; Used to send push notifications to users about daily specials etc.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Google Calendar&lt;/strong&gt; Their Google Calendar data is pulled and filtered to display data.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Unit Testing&lt;/strong&gt; Implement unit testing for Realm classes, network, manager classes, and view controllers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+This app is simple at it’s core.&lt;br /&gt;
+I was given permission from the client to make the code available on &lt;a href=&quot;https://github.com/maxrog/DeweysRacine&quot; title=&quot;https://github.com/maxrog/DeweysRacine&quot;&gt;GitHub&lt;/a&gt;.&lt;br /&gt;
+&lt;strong&gt;Moving Forward&lt;/strong&gt;: Maintenance
+&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BvWm6B7aFHs &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot; https://itunes.apple.com/us/app/deweysracine/id1351069299?ls=1&amp;amp;mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-center&quot;&gt;
+&lt;a href=&quot;https://www.deweysracine.com&quot; title=&quot;https://www.deweysracine.com&quot;&gt;Client Website&lt;/a&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 May 2017 00:30:00 +0000</pubDate>
+        <link>http://www.maxrog.github.io/Deweys</link>
+        <guid isPermaLink="true">http://www.maxrog.github.io/Deweys</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
+        <title>Ski Trip</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/SkiTrip/SkiTrip_1.png&quot; alt=&quot;SkiTrip&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Personal Project &lt;br /&gt;
+&lt;strong&gt;Initial Release:&lt;/strong&gt; In Progress &lt;br /&gt;
+&lt;strong&gt;iOS Team Size:&lt;/strong&gt; 1
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Contributions &amp;amp; Takeaways&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Ski Trip is a game I’m working on which involves a mountain town lending interaction with the characters and then a skiing game. There’s currently four different mountain levels to unlock, all with their own personality. Your character aims to collect coins to unlock hearts and complete levels to defeat the antagonist and save the town.  &lt;br /&gt;
+I’m developing this game with the help of a musician friend whom is creating all the sounds that go into the game - they really make a huge difference. &lt;br /&gt;
+&lt;strong&gt;Takeaways&lt;/strong&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;SpriteKit&lt;/strong&gt; SpriteKit was relatively easy to pick up and get going with. I’m excited with the possibilities this framework offers.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Game Assets&lt;/strong&gt; I’ve created all the game assets and keyframe animations using Sketch which probably isn’t the most efficient tool for this type of thing but it’s getting the job done.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SKAction&lt;/strong&gt; Exposing myself to this framework to animate my game has helped me in my utility apps as well. A lot of the animations translate well over to  &lt;strong&gt;UIKit’s Animations&lt;/strong&gt; when a little liveliness is needed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+It was about time I explored SpriteKit and I’m having a blast with it. It makes me appreciate one of the things I love most about development - getting creative and designing an experience to hopefully make others smile.&lt;br /&gt;
+&lt;strong&gt;Moving Forward&lt;/strong&gt;: Finish adding sound, update some graphics, overall testing/tweaking.
+&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2FXVqKhxWM4 &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+</description>
+        <pubDate>Wed, 10 May 2017 00:30:00 +0000</pubDate>
+        <link>http://www.maxrog.github.io/SkiTrip</link>
+        <guid isPermaLink="true">http://www.maxrog.github.io/SkiTrip</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
+        <title>Racine Unified School District</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/RUSD/RUSD_1.png&quot; alt=&quot;RUSD&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Developed through the App Factory&lt;br /&gt;
+&lt;strong&gt;Client:&lt;/strong&gt; Racine Unified School District&lt;br /&gt;
+&lt;strong&gt;Initial Release:&lt;/strong&gt; Ready to Release &lt;br /&gt;
+&lt;strong&gt;iOS Team Size:&lt;/strong&gt; 1
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Contributions &amp;amp; Takeaways&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+The RUSD app’s main feature is to enable staff (particularly IS) to view relevant messages. It allows the client to log in to a web portal and send out push notifications to relevant topics (training, outages, etc) and update contact information. This project consisted of an iOS, Android, and Web component. The iOS component is deployed on an enterprise developer account to distribute internally to their employees.&lt;br /&gt;
+&lt;strong&gt;Takeaways&lt;/strong&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;User Authentication&lt;/strong&gt; Logging in through our Node.js/MongoDB backend which communicates with RUSD’s LDAP system to authenticate the user.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Handling Tokens&lt;/strong&gt; Logic to check if a refresh is needed and what to do on failure. Keeping our server updated on any updated registration tokens received through Firebase. Securely storing access tokens on authentication success.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Subscription Logic&lt;/strong&gt; User’s are allowed to choose their subscription level by opting in to their location only, district-wide, or unsubscribe all together. This data along with user employment changes is actively synced with our server via HTTP Post requests. Our notifications were also filtered client side for viewing purposes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+I really enjoyed this project as it gave a nice challenge to our team to communicate properly. I have to give thanks to our web guys for writing great API documentation. Client side we had to put our heads together regarding all the edge cases during our network calls. I believe we handled them all properly and it resulted in a robust application. &lt;br /&gt;
+&lt;strong&gt;Moving Forward&lt;/strong&gt;: Maintenance
+&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-9_SG2NOMkM &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p class=&quot;content__item-center&quot;&gt;
+&lt;a href=&quot;http://www.rusd.org&quot; title=&quot;http://www.rusd.org&quot;&gt;Client Website&lt;/a&gt;
+&lt;/p&gt;
+</description>
+        <pubDate>Tue, 09 May 2017 00:30:00 +0000</pubDate>
+        <link>http://www.maxrog.github.io/RUSD</link>
+        <guid isPermaLink="true">http://www.maxrog.github.io/RUSD</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
+        <title>Cloudy</title>
+        <description>&lt;p class=&quot;content__item-left&quot;&gt;
+Cloudy is a weather iOS application that is apart of the &lt;a href=&quot;https://cocoacasts.com/mastering-model-view-viewmodel-with-swift&quot; title=&quot;https://cocoacasts.com/mastering-model-view-viewmodel-with-swift&quot;&gt;course&lt;/a&gt; “Mastering MVVM With Swift” led by Bart Jacobs. The course takes a standard MVC project and refactors it into MVVM, highlighting the advantages of this architecture.
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+MVC was introduced to me when I first began learning iOS development, and is the pattern that I have mostly followed. It is usually taught with a diagram conveying that the view controller acts as a kind of mediator to the model and the view. The view controller owns both the view and model which should never interact with eachother. I enjoy the pattern - it gives a nice separation of concerns. I learned quickly that it’s easy for the view controller to get bloated with code that arguably doesn’t belong in there. I made it a priority to learn how to better abstract my code. This course has done a fantastic job of presenting the advantages of a MVVM architecture.&lt;br /&gt;
+I’ll cover some of the benefits of I discovered during this course and what I think about MVVM.
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Small, Concise View Controllers&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Since MVVM adds another layer of abstraction between the model and view controller, this means the preparation for views can be done elsewhere and the view controller can solely worry about displaying it’s views and dealing with user interaction. Also, it no longer holds a reference to the model - it simply passes what it’s given from the view-model to the view.
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Improved Testability&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+This is the largest appeal to me for deploying a more MVVM approach over MVC. View controllers can be a real pain to test, but with MVVM modularizing most of the data manipulation, it becomes easy to test both the view-models and the view controllers. I also learned how to use stubs to mock network responses and test RxSwift drivers.
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Reactive Programming&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+MVVM paired with reactive programming has shown to be a powerful combination. In this course, we implemented RxSwift as our binding service along with RxCocoa to &lt;em&gt;reactify&lt;/em&gt; the UIKit components. RxSwift gives the ability to automatically update a view when the model changes. This does not mean they communicate with eachother. We used our view-model’s driver (stream of data) that the view controller subscribes to and then updates the view when relevant changes happen.
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Will I Use MVVM?&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+This course was a great learning experience for me. It was very convenient that I got to see how the original MVC project compares to the refactored MVVM one. Bart also helped me learn more about best practices and code quality by touching on protocol oriented programming and general abstraction/decoupling. I also enjoyed how he handles network calls and memory management. I highly reccomend this course or subscribing to Bart’s blog to learn more about Swift/iOS development. I will definitely be adopting some techniques I learned and would not be opposed to implementing a MVVM + reactive architecture in my future projects.
+&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 08 May 2017 00:30:00 +0000</pubDate>
+        <link>http://www.maxrog.github.io/Cloudy</link>
+        <guid isPermaLink="true">http://www.maxrog.github.io/Cloudy</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
+        <title>Racine Zoo</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/Zoo/Zoo_1.png&quot; alt=&quot;IOU Bank&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Developed through Software Engineering 2/App Factory&lt;br /&gt;
+&lt;strong&gt;Initial Release:&lt;/strong&gt; August 23, 2017&lt;br /&gt;
+&lt;strong&gt;iOS Team Size:&lt;/strong&gt; 5
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Contributions &amp;amp; Takeaways&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+The Racine Zoo app was developed in our Software Engineering 2 class and transferred into the App Factory to finish. It is an informative application that zoo-goers can utilize during their time exploring. It includes animal facts, a map detailing the exhibits and locations, an event list, and an interactive component featuring beacons! The beacons use BLE to connect with the beacons which display exhibit information when a user walks within range. I mostly worked on the event manager and beacons. I also helped new developers troubleshoot when they encountered problems.&lt;br /&gt;
+&lt;strong&gt;Takeaways&lt;/strong&gt;
+&lt;ul&gt;
+  &lt;li&gt;Override &lt;strong&gt;drawRect&lt;/strong&gt; to create custom views. If two events fall on the same day, the cell will expand to include both of them beside a single date view.&lt;/li&gt;
+  &lt;li&gt;View debugging while implementing these custom views with the help of &lt;strong&gt;View Hierarchy Debugging&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Logic using &lt;strong&gt;Calendar&lt;/strong&gt; and &lt;strong&gt;Date&lt;/strong&gt; classes to determine which events should be displayed and in which groups.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Unit Testing&lt;/strong&gt; the event manager class to ensure edge cases of events work properly&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;EKEventStore&lt;/strong&gt; allow users to easily add zoo events to their Calendar app&lt;/li&gt;
+  &lt;li&gt;Use of &lt;strong&gt;CoreLocation&lt;/strong&gt; to create a BeaconManager class to determine when a beacon comes into range to display exhibit information.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+This was app was a great learning experience. It was the largest iOS team that I’ve had to collaberate with. We experienced the woes of merge conflicts that come with multiple developers and storyboard development. We decided to make use of Storyboard references to keep everyone’s UI dev separate. It also led me to investigating programmatic vs Storyboard development and design patterns to avoid these problems such as coordinators. It also emphasized the importance of project architecture and organization to ensure modularity and ease of navigation for our team.&lt;br /&gt;
+&lt;strong&gt;Moving Forward&lt;/strong&gt;: Maintenance
+&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Q79JlTdbvlg &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot; https://itunes.apple.com/us/app/racine-zoo/id1224785219?mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-center&quot;&gt;
+&lt;a href=&quot;http://www.racinezoo.org&quot; title=&quot;http://www.racinezoo.org&quot;&gt;Client Website&lt;/a&gt;
+&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 07 May 2017 00:30:00 +0000</pubDate>
+        <link>http://www.maxrog.github.io/RacineZoo</link>
+        <guid isPermaLink="true">http://www.maxrog.github.io/RacineZoo</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+      <item>
+        <title>IOU Bank</title>
+        <description>&lt;p&gt;&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/IOUBank/IOUBank_1.png&quot; alt=&quot;IOU Bank&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+Personal Project&lt;br /&gt;
+&lt;strong&gt;Initial Release:&lt;/strong&gt; June 06, 2017&lt;br /&gt;
+&lt;strong&gt;iOS Team Size:&lt;/strong&gt; 1
+&lt;/p&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Contributions &amp;amp; Takeaways&lt;/h3&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+IOU Bank was an application I made to give me practice while trying out some  iOS capabilities that were new to me. Users can keep track of loans that they have with friends. If they are paying incrementally, they can add a payment and watch the progress bar move closer. &lt;br /&gt;
+&lt;strong&gt;Takeaways&lt;/strong&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Firebase BaaS&lt;/strong&gt; used to authenticate through phone and store user loans&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;UIPageView&lt;/strong&gt; users way of navigating through their loans&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CNContactStore&lt;/strong&gt; allow for users to connect their loans with someone in their contacts so they can both view/modify the loans&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Google AdMob&lt;/strong&gt; configuration of both banner and interstitial ads&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;In-App Purchase&lt;/strong&gt; limit user’s bank vault space unless they purchase more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+
+&lt;p class=&quot;content__item-left&quot;&gt;
+This application lent an opportunity to get better at developing all the way from design, to business model, to development. I went with a standard business model of banner/interstitial ads and limiting user experience unless they pay for the IAP to expand their bank vault space and remove the ads. I did run into some issues with compatibility with all screen sizes which will be a thing for me to work on in my next application.&lt;br /&gt;
+&lt;strong&gt;Moving Forward&lt;/strong&gt;: Maintenance
+&lt;/p&gt;
+
+&lt;div class=&quot;video-container&quot;&gt;&lt;iframe width=&quot;80%&quot; max-width=&quot;640px&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/H46yZXZM8bM &quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot; https://itunes.apple.com/us/app/iou-bank/id1252491343?mt=8 &quot;&gt;&lt;img class=&quot;content__item-img-center&quot; src=&quot;/images/app_store.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 06 May 2017 00:30:00 +0000</pubDate>
+        <link>http://www.maxrog.github.io/IOUBank</link>
+        <guid isPermaLink="true">http://www.maxrog.github.io/IOUBank</guid>
+        
+        
+        <category>iphone</category>
+        
+      </item>
+    
+  </channel>
+</rss>
